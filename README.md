@@ -7,7 +7,13 @@ USB HID Hardware KeyLogger running on a Cortex M3 (LQFP64) mounted on an self-de
 Hardware in use
 ===========
 
-Cortex M3
+CPU
+===========
+STMICROELECTRONICS - STM32F205RET6 - IC MCU,32BIT,ARM,64 LQFP
+
+
+http://ch.farnell.com/stmicroelectronics/stm32f205ret6/ic-mcu-32bit-arm-64-lqfp/dp/2060897?Ntt=2060897
+http://www.farnell.com/datasheets/1776949.pdf
 
 
 Voltage Regulator
