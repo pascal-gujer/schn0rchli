@@ -24,7 +24,6 @@ FCI - 87583-2010BLF - BUCHSE USB TYP A SMD 4POL
 
 
 http://ch.farnell.com/fci/87583-2010blf/buchse-usb-typ-a-smd-4pol/dp/1314363
-
 http://www.farnell.com/datasheets/316615.pdf
 
 
@@ -34,7 +33,6 @@ LUMBERG - 2410 07 - STECKER, USB-TYP A SMD ABGEWINKELT
 
 
 http://ch.farnell.com/lumberg/2410-07/stecker-usb-typ-a-smd-abgewinkelt/dp/1308875
-
 http://www.farnell.com/datasheets/57299.pdf
 
 
