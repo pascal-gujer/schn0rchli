@@ -36,3 +36,11 @@ http://ch.farnell.com/lumberg/2410-07/stecker-usb-typ-a-smd-abgewinkelt/dp/13088
 http://www.farnell.com/datasheets/57299.pdf
 
 
+###Flash Memory
+SPANSION - S25FL208K0RMFI041 - FLASH-SPEICHER, 8MB, 8SOIC 
+
+
+http://ch.farnell.com/spansion/s25fl208k0rmfi041/flash-speicher-8mb-8soic/dp/2340553
+http://www.farnell.com/datasheets/1766170.pdf
+
+
