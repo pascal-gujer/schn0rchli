@@ -61,4 +61,8 @@ http://www.farnell.com/datasheets/1697419.pdf
 
 
 ###Display
+MIDAS - MCCOG21605B6W-FPTLWI - LCD, COG 16X2, I2C, FSTN SCHW./WEISS
 
+
+http://ch.farnell.com/midas/mccog21605b6w-fptlwi/lcd-cog-16x2-i2c-fstn-schw-weiss/dp/2218942
+http://www.farnell.com/datasheets/1663636.pdf
