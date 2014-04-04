@@ -66,3 +66,11 @@ MIDAS - MCCOG21605B6W-FPTLWI - LCD, COG 16X2, I2C, FSTN SCHW./WEISS
 
 http://ch.farnell.com/midas/mccog21605b6w-fptlwi/lcd-cog-16x2-i2c-fstn-schw-weiss/dp/2218942
 http://www.farnell.com/datasheets/1663636.pdf
+
+
+###Oscillator
+TXC - 7A-24.000MAAJ-T - XTAL, 24.000MHZ, 18PF, SMD, 5.0X3.2 
+
+
+http://ch.farnell.com/txc/7a-24-000maaj-t/xtal-24-000mhz-18pf-smd-5-0x3-2/dp/1841952
+http://www.farnell.com/datasheets/1041607.pdf
