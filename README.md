@@ -44,3 +44,21 @@ http://ch.farnell.com/spansion/s25fl208k0rmfi041/flash-speicher-8mb-8soic/dp/234
 http://www.farnell.com/datasheets/1766170.pdf
 
 
+###Mode Select Button
+C & K COMPONENTS - KSR221G LFS - MINATURTASTER, GEKAPSELT 
+
+
+http://ch.farnell.com/c-k-components/ksr221g-lfs/minaturtaster-gekapselt/dp/2376536
+http://www.farnell.com/datasheets/1780692.pdf
+
+
+###Programmer Switch
+MULTICOMP - MCS2S-B15F - SCHIEBESCHALTER , SMD, TAST-AN-TAST 
+
+
+http://ch.farnell.com/multicomp/mcs2s-b15f/schiebeschalter-smd-tast-an-tast/dp/1522051
+http://www.farnell.com/datasheets/1697419.pdf
+
+
+###Display
+
