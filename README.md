@@ -74,3 +74,19 @@ TXC - 7A-24.000MAAJ-T - XTAL, 24.000MHZ, 18PF, SMD, 5.0X3.2
 
 http://ch.farnell.com/txc/7a-24-000maaj-t/xtal-24-000mhz-18pf-smd-5-0x3-2/dp/1841952
 http://www.farnell.com/datasheets/1041607.pdf
+
+
+###Yellow Side LED
+KINGBRIGHT - KPJA-2107SYCK - LED,2.1X0.7MM,SEITLICH,GELB
+
+
+http://ch.farnell.com/kingbright/kpja-2107syck/led-2-1x0-7mm-seitlich-gelb/dp/2290372
+http://www.farnell.com/datasheets/1683529.pdf
+
+
+###Red Side LED
+KINGBRIGHT - KPJA-2107SURCK - LED,2.1X0.7MM,SEITLICH,ROT
+
+
+http://ch.farnell.com/kingbright/kpja-2107surck/led-2-1x0-7mm-seitlich-rot/dp/2290371
+http://www.farnell.com/datasheets/1683527.pdf
