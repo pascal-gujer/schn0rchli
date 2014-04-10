@@ -1,0 +1,192 @@
+(ExpressProject "Thermometer"
+  (ProjectVersion "19981106")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File ".\library\ep2_lib.olb"
+        (Type "Schematic Library")))
+    (NoModify)
+    (File ".\thermometer.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (Board_sim_option "VHDL_flow"))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (GND
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (C_0805
+      (FullPartName "C_0805.Normal")
+      (LibraryName
+         "C:\EP2\EP2_05\1_ORCAD_DESIGN\THERMOMETER\CAPTURE\LIBRARY\EP2_LIB.OLB")
+      (DeviceIndex "0"))
+    (XTAL
+      (FullPartName "XTAL.Normal")
+      (LibraryName
+         "C:\EP2\EP2_05\1_ORCAD_DESIGN\THERMOMETER\CAPTURE\LIBRARY\EP2_LIB.OLB")
+      (DeviceIndex "0"))
+    (VCC
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (MIDAS_LCD
+      (FullPartName "MIDAS_LCD.Normal")
+      (LibraryName
+         "C:\EP2\EP2_05\1_ORCAD_DESIGN\THERMOMETER\CAPTURE\LIBRARY\EP2_LIB.OLB")
+      (DeviceIndex "0"))
+    (R_0805
+      (FullPartName "R_0805.Normal")
+      (LibraryName
+         "C:\EP2\EP2_05\1_ORCAD_DESIGN\THERMOMETER\CAPTURE\LIBRARY\EP2_LIB.OLB")
+      (DeviceIndex "0"))
+    (Taster
+      (FullPartName "Taster.Normal")
+      (LibraryName
+         "C:\EP2\EP2_05\1_ORCAD_DESIGN\THERMOMETER\CAPTURE\LIBRARY\EP2_LIB.OLB")
+      (DeviceIndex "0"))
+    (S25FL208K
+      (FullPartName "S25FL208K.Normal")
+      (LibraryName
+         "C:\EP2\EP2_05\1_ORCAD_DESIGN\THERMOMETER\CAPTURE\LIBRARY\EP2_LIB.OLB")
+      (DeviceIndex "0"))
+    (Schalter
+      (FullPartName "Schalter.Normal")
+      (LibraryName
+         "C:\EP2\EP2_05\1_ORCAD_DESIGN\THERMOMETER\CAPTURE\LIBRARY\EP2_LIB.OLB")
+      (DeviceIndex "0"))
+    (GND_SIGNAL
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (MIC5265
+      (FullPartName "MIC5265.Normal")
+      (LibraryName
+         "C:\EP2\EP2_05\1_ORCAD_DESIGN\THERMOMETER\CAPTURE\LIBRARY\EP2_LIB.OLB")
+      (DeviceIndex "0"))
+    (USB_A_MALE
+      (FullPartName "USB_A_MALE.Normal")
+      (LibraryName
+         "C:\EP2\EP2_05\1_ORCAD_DESIGN\THERMOMETER\CAPTURE\LIBRARY\EP2_LIB.OLB")
+      (DeviceIndex "0"))
+    (USB_A_FEMALE
+      (FullPartName "USB_A_FEMALE.Normal")
+      (LibraryName
+         "C:\EP2\EP2_05\1_ORCAD_DESIGN\THERMOMETER\CAPTURE\LIBRARY\EP2_LIB.OLB")
+      (DeviceIndex "0"))
+    (STM32F205
+      (FullPartName "STM32F205.Normal")
+      (LibraryName
+         "C:\EP2\EP2_05\1_ORCAD_DESIGN\THERMOMETER\CAPTURE\LIBRARY\EP2_LIB.OLB")
+      (DeviceIndex "0"))
+    (Poti_Lead
+      (FullPartName "Poti_Lead.Normal")
+      (LibraryName
+         "U:\EP2\1_ORCAD_DESIGN\THERMOMETER\CAPTURE\LIBRARY\EP2_LIB.OLB")
+      (DeviceIndex "0"))
+    (BATTERY_CLIP
+      (FullPartName "BATTERY_CLIP.Normal")
+      (LibraryName
+         "U:\EP2\1_ORCAD_DESIGN\THERMOMETER\CAPTURE\LIBRARY\LIB_THERMOMETER.OLB")
+      (DeviceIndex "0"))
+    (NTC
+      (FullPartName "NTC.Normal")
+      (LibraryName
+         "U:\EP2\1_ORCAD_DESIGN\THERMOMETER\CAPTURE\LIBRARY\LIB_THERMOMETER.OLB")
+      (DeviceIndex "0"))
+    (Test_Pin
+      (FullPartName "Test_Pin.Normal")
+      (LibraryName
+         "U:\EP2\1_ORCAD_DESIGN\THERMOMETER\CAPTURE\LIBRARY\PRAKTIKUMTEMPLATE.OLB")
+      (DeviceIndex "0"))
+    (LM2621
+      (FullPartName "LM2621.Normal")
+      (LibraryName
+         "U:\EP2\1_ORCAD_DESIGN\THERMOMETER\CAPTURE\LIBRARY\PRAKTIKUMTEMPLATE.OLB")
+      (DeviceIndex "0"))
+    (1N5817
+      (FullPartName "1N5817.Normal")
+      (LibraryName
+         "U:\EP2\1_ORCAD_DESIGN\THERMOMETER\CAPTURE\LIBRARY\PRAKTIKUMTEMPLATE.OLB")
+      (DeviceIndex "0"))
+    (VCC_BAR
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (R_LEAD_500
+      (FullPartName "R_LEAD_500.Normal")
+      (LibraryName "U:\EP2\ORCAD\CAPTURE\LIBRARY\PRAKTIKUMTEMPLATE.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\thermometer.dsn")
+      (Path "Design Resources" ".\thermometer.dsn" "EP2_Schema")
+      (Path "Design Resources" ".\thermometer.dsn" "Design Cache")
+      (Path "Design Resources" "Library")
+      (Path "Design Resources" "Library" ".\library\ep2_lib.olb")
+      (Select "Design Resources" "Library" ".\library\ep2_lib.olb"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 0 200 0 401"))
+      (Tab 0))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 75 829 75 339")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "523 134")
+        (Zoom "248"))
+      (Path
+         "C:\EP2\EP2_05\1_ORCAD_DESIGN\THERMOMETER\CAPTURE\LIBRARY\EP2_LIB.OLB")
+      (Package "MIC5265"))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 0 754 0 264")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "384 57")
+        (Zoom "248"))
+      (Path
+         "C:\EP2\EP2_05\1_ORCAD_DESIGN\THERMOMETER\CAPTURE\LIBRARY\EP2_LIB.OLB")
+      (Package "Taster"))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 25 779 25 289")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "523 159")
+        (Zoom "248"))
+      (Path
+         "C:\EP2\EP2_05\1_ORCAD_DESIGN\THERMOMETER\CAPTURE\LIBRARY\EP2_LIB.OLB")
+      (Package "MIDAS_LCD"))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 50 804 50 314")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "523 134")
+        (Zoom "248"))
+      (Path
+         "C:\EP2\EP2_05\1_ORCAD_DESIGN\THERMOMETER\CAPTURE\LIBRARY\EP2_LIB.OLB")
+      (Package "XTAL"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -30 125 879 125 389")
+        (Scroll "-142 0")
+        (Zoom "37")
+        (Occurrence "/"))
+      (Path "C:\EP2\EP2_05\1_ORCAD_DESIGN\THERMOMETER\CAPTURE\THERMOMETER.DSN")
+      (Schematic "EP2_Schema")
+      (Page "PAGE1")))
+  (MPSSessionName "Dan")
+  (LastUsedLibraryBrowseDirectory
+     "U:\EP2\1_OrCAD_Design\Thermometer\Capture\Library"))
