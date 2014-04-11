@@ -1,0 +1,34 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Padstack                                                 )
+(                                                                     )
+(    Drawing          : stm32f205.dra                                 )
+(    Software Version : 16.6S025                                      )
+(    Date/Time        : Fri Apr 11 11:18:56 2014                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Fri Apr 11 11:18:56 2014				Page     1
+
+
+------ Pad Stack Refresh Options ------
+
+Input design = 'C:/Users/Dan/Documents/GitHub/schn0rchli/PCB_Designer/Symbols/stm32f205.dra'
+Output design = ''
+Reset symbol text and size locations = 'NO'
+
+
+------ Library Paths ------
+PSMPATH =  C:/Users/Dan/Documents/GitHub/schn0rchli/PCB_Designer/Symbols/ 
+
+PADPATH =  C:/Users/Dan/Documents/GitHub/schn0rchli/PCB_Designer/Pads/ 
+
+
+------ Pad Stack Refresh Messages ------
+
+'LQFP64'  pad stack refresh starting.
+
+     'LQFP64'  pad stack refreshed successfully.
+     
+Completed refreshing all pad stacks successfully.

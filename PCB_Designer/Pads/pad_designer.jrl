@@ -1,0 +1,40 @@
+\t (00:00:48) pad_designer 16.6 S022 (v16-6-112BN) Windows 32
+\t (00:00:48)     Journal start - Fri Apr 11 11:18:01 2014
+\t (00:00:48)         Host=TROLOLOLOLAPTOP User=Dan Pid=6864 CPUs=4
+\t (00:00:48) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\pad_designer.exe
+\t (00:00:48) 
+\i (00:00:53) FORM padedit width 1.2 
+\i (00:00:54) FORM padedit height 3 
+\i (00:00:55) FORM padedit grid row soldermask_top 
+\i (00:00:59) FORM padedit grid row soldermask_bottom 
+\i (00:00:59) FORM padedit grid row pastemask_top 
+\i (00:01:02) FORM padedit width 1.1 
+\i (00:01:05) FORM padedit grid row soldermask_top 
+\i (00:01:06) FORM padedit grid row pastemask_top 
+\i (00:01:11) FORM padedit width 0.2 
+\i (00:01:15) FORM padedit width 1.1 
+\i (00:01:16) FORM padedit height 0.2 
+\i (00:01:18) FORM padedit grid row soldermask_top 
+\i (00:01:22) FORM padedit height 1.2 
+\i (00:01:26) FORM padedit width 1.2 
+\i (00:01:28) FORM padedit height 0.3 
+\i (00:01:31) pse_save 
+\i (00:01:32) fillin yes 
+\i (00:01:34) FORM padedit parameters  
+\i (00:01:36) FORM padedit layers  
+\i (00:06:26) pse_new 
+\i (00:06:35) fillin "mic5265.pad"
+\i (00:06:50) FORM padedit single YES 
+\i (00:06:51) FORM padedit grid row begin_layer 
+\i (00:07:03) FORM padedit geometry Rectangle 
+\i (00:07:07) FORM padedit width 0. 
+\i (00:07:11) FORM padedit parameters  
+\i (00:07:12) FORM padedit units Millimeter 
+\i (00:07:13) fillin yes 
+\w (00:07:13) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:07:14) FORM padedit layers  
+\i (00:07:17) FORM padedit width 0.8 
+\i (00:07:19) FORM padedit height 0.6 
+\i (00:07:23) pse_save 
+\i (00:07:31) pse_exit
+\t (00:07:31)     Journal end - Fri Apr 11 11:24:44 2014
