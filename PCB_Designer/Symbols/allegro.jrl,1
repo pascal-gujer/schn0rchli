@@ -1,0 +1,74 @@
+\t (00:00:00) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:00)     Journal start - Thu Apr 10 13:56:21 2014
+\t (00:00:00)         Host=TROLOLOLOLAPTOP User=Dan Pid=2516 CPUs=4
+\t (00:00:00) 
+   (00:00:00) *Error* alias: alias is already used as function name - _axlIsitFill
+\t (00:00:03) Starting new design...
+\i (00:00:03) trapsize 1084
+\i (00:00:03) trapsize 1051
+\i (00:00:03) trapsize 1089
+\i (00:00:04) trapsize 868
+\i (00:00:04) trapsize 1622
+\i (00:00:05) generaledit 
+\i (00:00:54) new 
+\i (00:01:11) newdrawfillin "stm32.dra" "Package Symbol (Wizard)"
+\t (00:01:11) Starting new design...
+\i (00:01:12) trapsize 868
+\i (00:01:12) trapsize 843
+\i (00:01:12) trapsize 868
+\i (00:01:13) trapsize 1622
+\i (00:01:13) trapsize 1622
+\i (00:01:13) package symbol wizard 
+\i (00:01:13) generaledit 
+   (00:01:15) Loading cmds.cxt 
+   (00:01:15) Loading axlcore.cxt 
+\i (00:01:15) setwindow form.sym_wizard
+\i (00:01:15) FORM sym_wizard bga YES 
+\i (00:01:16) FORM sym_wizard plcc YES 
+\i (00:01:17) FORM sym_wizard wiz_next  
+\i (00:01:24) FORM sym_wizard wiz_next  
+\i (00:01:26) fillin confirm
+\i (00:01:27) FORM sym_wizard load_template  
+\t (00:01:27) Opening existing design...
+\t (00:01:27) Grids are drawn 400, 400 apart for enhanced viewability.
+\i (00:01:27) setwindow pcb
+\i (00:01:27) trapsize 324
+\d (00:01:27) Database opened: C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols/template/sym_template.dra
+\i (00:01:28) setwindow form.sym_wizard
+\i (00:01:28) FORM sym_wizard wiz_next  
+\i (00:01:32) FORM sym_wizard wiz_next  
+\i (00:01:33) FORM sym_wizard wiz_next  
+\i (00:01:33) FORM sym_wizard wiz_next  
+\i (00:01:34) FORM sym_wizard wiz_next  
+\i (00:01:36) fillin confirm
+\i (00:01:36) FORM sym_wizard default_pad_browse  
+\i (00:01:50) fillin "Lqfp64"
+\i (00:01:51) FORM sym_wizard wiz_next  
+\i (00:01:55) FORM sym_wizard wiz_next  
+\i (00:01:56) FORM sym_wizard wiz_finish  
+\w (00:01:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:01:56) setwindow pcb
+\i (00:01:56) trapsize 341
+   (00:01:56) *Error* axlDBCreatePath: too many arguments (at most 5 expected, 6 given) - (_axlPath@0x6bea028 "PACKAGE GEOMETRY/ASSEMBLY_TOP" nil nil nil ... )
+\i (00:01:57) setwindow form.sym_wizard
+\i (00:01:57) FORM sym_wizard wiz_finish  
+\w (00:01:57) WARNING(SPMHUT-48): Scaled value has been rounded off.
+   (00:01:57) *Error* axlDBCreatePath: too many arguments (at most 5 expected, 6 given) - (_axlPath@0x6bea088 "PACKAGE GEOMETRY/ASSEMBLY_TOP" nil nil nil ... )
+\i (00:01:58) FORM sym_wizard wiz_finish  
+\w (00:01:58) WARNING(SPMHUT-48): Scaled value has been rounded off.
+   (00:01:58) *Error* axlDBCreatePath: too many arguments (at most 5 expected, 6 given) - (_axlPath@0x6bea0e8 "PACKAGE GEOMETRY/ASSEMBLY_TOP" nil nil nil ... )
+\i (00:01:58) FORM sym_wizard wiz_finish  
+\w (00:01:58) WARNING(SPMHUT-48): Scaled value has been rounded off.
+   (00:01:58) *Error* axlDBCreatePath: too many arguments (at most 5 expected, 6 given) - (_axlPath@0x6bea148 "PACKAGE GEOMETRY/ASSEMBLY_TOP" nil nil nil ... )
+\i (00:01:58) FORM sym_wizard wiz_finish  
+\w (00:01:58) WARNING(SPMHUT-48): Scaled value has been rounded off.
+   (00:01:58) *Error* axlDBCreatePath: too many arguments (at most 5 expected, 6 given) - (_axlPath@0x6bea1a8 "PACKAGE GEOMETRY/ASSEMBLY_TOP" nil nil nil ... )
+\i (00:01:58) FORM sym_wizard wiz_finish  
+\w (00:01:58) WARNING(SPMHUT-48): Scaled value has been rounded off.
+   (00:01:58) *Error* axlDBCreatePath: too many arguments (at most 5 expected, 6 given) - (_axlPath@0x6bea208 "PACKAGE GEOMETRY/ASSEMBLY_TOP" nil nil nil ... )
+\i (00:01:58) FORM sym_wizard wiz_finish  
+\w (00:01:58) WARNING(SPMHUT-48): Scaled value has been rounded off.
+   (00:01:58) *Error* axlDBCreatePath: too many arguments (at most 5 expected, 6 given) - (_axlPath@0x6bea268 "PACKAGE GEOMETRY/ASSEMBLY_TOP" nil nil nil ... )
+\i (00:01:59) FORM sym_wizard wiz_finish  
+\w (00:01:59) WARNING(SPMHUT-48): Scaled value has been rounded off.
+   (00:01:59) *Error* axlDBCreatePath: too many arguments (at most 5 expected, 6 given) - (_axlPath@0x6bea2c8 "PACKAGE GEOMETRY/

@@ -9,10 +9,59 @@
       (Type "Schematic Design"))
     (BuildFileAddedOrDeleted "x")
     (CompileFileAddedOrDeleted "x")
-    (Board_sim_option "VHDL_flow"))
+    (Board_sim_option "VHDL_flow")
+    (ANNOTATE_Scope "0")
+    (ANNOTATE_Mode "1")
+    (ANNOTATE_Action "0")
+    (Annotate_Page_Order "0")
+    (ANNOTATE_Reset_References_to_1 "FALSE")
+    (ANNOTATE_No_Page_Number_Change "FALSE")
+    (ANNOTATE_Property_Combine "{Value}{Source Package}{POWER_GROUP}")
+    (ANNOTATE_IncludeNonPrimitive "FALSE")
+    (ANNOTATE_PreserveDesignator "FALSE")
+    (ANNOTATE_PreserveUserEdits "FALSE")
+    (ANNOTATE_Refdes_Control_Required "FALSE")
+    (Update_Instace_for_External_Design "FALSE")
+    (Annotate_type "Default")
+    (width_pages "100")
+    (width_start "80")
+    (width_End "80")
+    ("Create Allegro Netlist" "TRUE")
+    ("Allegro Netlist Directory"
+       "C:\USERS\DAN\DOCUMENTS\GITHUB\SCHN0RCHLI\PCB_DESIGNER\BOARDS")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "TRUE")
+    ("Allegro Netlist Input Board File"
+       "C:\Users\Dan\Documents\GitHub\schn0rchli\PCB_Designer\Boards\Board_V_1_0_85x75.brd")
+    ("Allegro Netlist Output Board File"
+       "C:\Users\Dan\Documents\GitHub\schn0rchli\PCB_Designer\Boards\Board_V_1_0_85x75.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Output Warnings" "TRUE")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "31")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE")
+    (Netlist_TAB "0"))
   (Folder "Outputs")
   (Folder "Referenced Projects")
   (PartMRUSelector
+    (VCC
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (R_0805
+      (FullPartName "R_0805.Normal")
+      (LibraryName
+         "C:\USERS\DAN\DOCUMENTS\GITHUB\SCHN0RCHLI\CAPTURE\LIBRARY\EP2_LIB.OLB")
+      (DeviceIndex "0"))
+    (LED
+      (FullPartName "LED.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
     (GND
       (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0"))
@@ -26,16 +75,8 @@
       (LibraryName
          "C:\EP2\EP2_05\1_ORCAD_DESIGN\THERMOMETER\CAPTURE\LIBRARY\EP2_LIB.OLB")
       (DeviceIndex "0"))
-    (VCC
-      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
-      (DeviceIndex "0"))
     (MIDAS_LCD
       (FullPartName "MIDAS_LCD.Normal")
-      (LibraryName
-         "C:\EP2\EP2_05\1_ORCAD_DESIGN\THERMOMETER\CAPTURE\LIBRARY\EP2_LIB.OLB")
-      (DeviceIndex "0"))
-    (R_0805
-      (FullPartName "R_0805.Normal")
       (LibraryName
          "C:\EP2\EP2_05\1_ORCAD_DESIGN\THERMOMETER\CAPTURE\LIBRARY\EP2_LIB.OLB")
       (DeviceIndex "0"))
@@ -122,71 +163,23 @@
       (Path "Design Resources" ".\thermometer.dsn" "Design Cache")
       (Path "Design Resources" "Library")
       (Path "Design Resources" "Library" ".\library\ep2_lib.olb")
-      (Select "Design Resources" "Library" ".\library\ep2_lib.olb"))
+      (Select "Design Resources" ".\thermometer.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 0 200 0 401"))
+        (Placement "44 2 3 -1 -1 -8 -30 0 391 0 401"))
       (Tab 0))
-    (Doc
-      (Type "COrPartDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 75 829 75 339")
-        (PackageScroll "0 0")
-        (PackageZoom "1")
-        (PartPackage "Part")
-        (Scroll "523 134")
-        (Zoom "248"))
-      (Path
-         "C:\EP2\EP2_05\1_ORCAD_DESIGN\THERMOMETER\CAPTURE\LIBRARY\EP2_LIB.OLB")
-      (Package "MIC5265"))
-    (Doc
-      (Type "COrPartDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 0 754 0 264")
-        (PackageScroll "0 0")
-        (PackageZoom "1")
-        (PartPackage "Part")
-        (Scroll "384 57")
-        (Zoom "248"))
-      (Path
-         "C:\EP2\EP2_05\1_ORCAD_DESIGN\THERMOMETER\CAPTURE\LIBRARY\EP2_LIB.OLB")
-      (Package "Taster"))
-    (Doc
-      (Type "COrPartDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 25 779 25 289")
-        (PackageScroll "0 0")
-        (PackageZoom "1")
-        (PartPackage "Part")
-        (Scroll "523 159")
-        (Zoom "248"))
-      (Path
-         "C:\EP2\EP2_05\1_ORCAD_DESIGN\THERMOMETER\CAPTURE\LIBRARY\EP2_LIB.OLB")
-      (Package "MIDAS_LCD"))
-    (Doc
-      (Type "COrPartDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 50 804 50 314")
-        (PackageScroll "0 0")
-        (PackageZoom "1")
-        (PartPackage "Part")
-        (Scroll "523 134")
-        (Zoom "248"))
-      (Path
-         "C:\EP2\EP2_05\1_ORCAD_DESIGN\THERMOMETER\CAPTURE\LIBRARY\EP2_LIB.OLB")
-      (Package "XTAL"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -30 125 879 125 389")
-        (Scroll "-142 0")
-        (Zoom "37")
+        (Placement "44 0 1 -1 -1 -8 -30 766 1808 -12 248")
+        (Scroll "475 0")
+        (Zoom "148")
         (Occurrence "/"))
-      (Path "C:\EP2\EP2_05\1_ORCAD_DESIGN\THERMOMETER\CAPTURE\THERMOMETER.DSN")
+      (Path "C:\USERS\DAN\DOCUMENTS\GITHUB\SCHN0RCHLI\CAPTURE\THERMOMETER.DSN")
       (Schematic "EP2_Schema")
       (Page "PAGE1")))
   (MPSSessionName "Dan")
-  (LastUsedLibraryBrowseDirectory
-     "U:\EP2\1_OrCAD_Design\Thermometer\Capture\Library"))
+  (LastUsedLibraryBrowseDirectory "C:\Cadence\SPB_16.6\tools\capture\library")
+  (ISPCBBASICLICENSE "false"))
