@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : USBFemaleTypA.dra                             )
+(    Software Version : 16.6S014                                      )
+(    Date/Time        : Fri May 02 11:08:24 2014                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = //c101.hsr.ch/pgujer/Desktop/schn0rchli-master/PCB_Designer/Symbols
+    Name      = usbfemaletypa.psm
+    User      = pgujer
+    Machine   = DT-EL-1219-08
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+
