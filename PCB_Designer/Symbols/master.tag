@@ -1,1 +1,1 @@
-stm32f205.dra
+soic8_n.dra
