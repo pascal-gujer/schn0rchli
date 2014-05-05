@@ -1,0 +1,28 @@
+\t (00:00:00) pad_designer 16.6 S022 (v16-6-112BN) Windows 32
+\t (00:00:00)     Journal start - Mon May 05 12:40:34 2014
+\t (00:00:00)         Host=SINKBRETT User=Dan Pid=3380 CPUs=2
+\t (00:00:00) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\pad_designer.exe
+\t (00:00:00) 
+\i (00:00:03) setwindow form.padedit
+\i (00:00:03) pse_open 
+\i (00:00:06) fillin "lqfp64.pad"
+\i (00:00:08) FORM padedit layers  
+\i (00:00:09) FORM padedit parameters  
+\i (00:00:10) FORM padedit layers  
+\i (00:00:16) FORM padedit parameters  
+\i (00:00:53) FORM padedit layers  
+\i (00:00:55) FORM padedit grid row begin_layer 
+\i (00:01:00) FORM padedit height 0.3 
+\i (00:01:01) FORM padedit grid row soldermask_top 
+\i (00:01:03) FORM padedit grid row soldermask_bottom 
+\i (00:01:04) FORM padedit grid row pastemask_top 
+\i (00:01:05) FORM padedit grid row soldermask_top 
+\i (00:01:05) FORM padedit grid row begin_layer 
+\i (00:01:07) FORM padedit grid row soldermask_top 
+\i (00:01:07) FORM padedit grid row pastemask_top 
+\i (00:01:08) FORM padedit grid row soldermask_top 
+\i (00:01:09) FORM padedit grid row begin_layer 
+\i (00:01:16) pse_save 
+\i (00:01:17) fillin yes 
+\i (00:02:17) pse_exit
+\t (00:02:17)     Journal end - Mon May 05 12:42:51 2014
