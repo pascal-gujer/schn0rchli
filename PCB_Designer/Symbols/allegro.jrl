@@ -245,4 +245,227 @@
 \i (00:04:11) setwindow pcb
 \i (00:04:11) zoom in -4.170 -6.086
 \i (00:04:11) trapsize 45
-\i (
+\i (00:04:11) zoom in 1 
+\i (00:04:11) setwindow pcb
+\i (00:04:11) zoom in -4.170 -6.086
+\i (00:04:11) trapsize 22
+\i (00:04:11) zoom in 1 
+\i (00:04:11) setwindow pcb
+\i (00:04:11) zoom in -4.170 -6.086
+\i (00:04:11) trapsize 11
+\i (00:04:11) zoom out 1 
+\i (00:04:11) setwindow pcb
+\i (00:04:11) zoom out -4.161 -6.090
+\i (00:04:11) trapsize 22
+\i (00:04:11) zoom out 1 
+\i (00:04:11) setwindow pcb
+\i (00:04:11) zoom out -4.161 -6.090
+\i (00:04:11) trapsize 45
+\i (00:04:11) zoom out 1 
+\i (00:04:11) setwindow pcb
+\i (00:04:11) zoom out -4.161 -6.100
+\i (00:04:11) trapsize 90
+\i (00:04:11) zoom out 1 
+\i (00:04:11) setwindow pcb
+\i (00:04:11) zoom out -4.081 -6.136
+\i (00:04:11) trapsize 179
+\i (00:04:11) zoom out 1 
+\i (00:04:11) setwindow pcb
+\i (00:04:11) zoom out -1.396 -6.171
+\i (00:04:11) trapsize 358
+\i (00:04:11) zoom out 1 
+\i (00:04:11) setwindow pcb
+\i (00:04:11) zoom out 3.941 3.605
+\i (00:04:11) trapsize 358
+\i (00:04:11) zoom out 1 
+\i (00:04:11) setwindow pcb
+\i (00:04:11) zoom out 4.013 3.605
+\i (00:04:11) trapsize 358
+\i (00:04:11) zoom out 1 
+\i (00:04:11) setwindow pcb
+\i (00:04:11) zoom out 4.013 3.605
+\i (00:04:11) trapsize 358
+\i (00:04:11) zoom out 1 
+\i (00:04:11) setwindow pcb
+\i (00:04:11) zoom out 4.084 3.533
+\i (00:04:11) trapsize 358
+\i (00:04:11) zoom out 1 
+\i (00:04:11) setwindow pcb
+\i (00:04:11) zoom out 4.084 3.390
+\i (00:04:11) trapsize 358
+\i (00:04:12) zoom in 1 
+\i (00:04:12) setwindow pcb
+\i (00:04:12) zoom in -5.083 -7.353
+\i (00:04:12) trapsize 179
+\i (00:04:12) zoom in 1 
+\i (00:04:12) setwindow pcb
+\i (00:04:12) zoom in -6.479 -7.710
+\i (00:04:12) trapsize 90
+\i (00:04:16) zoom out 1 
+\i (00:04:16) setwindow pcb
+\i (00:04:16) zoom out -5.835 -8.193
+\i (00:04:16) trapsize 179
+\i (00:04:18) save 
+\i (00:04:20) fillin yes 
+\t (00:04:20) Symbol 'pinhead_6.psm' created.
+\i (00:14:35) new 
+\i (00:14:43) newdrawfillin "sot23-5.dra" "Package Symbol (Wizard)"
+\t (00:14:43) Starting new design...
+\i (00:14:43) trapsize 358
+\i (00:14:44) trapsize 358
+\i (00:14:44) package symbol wizard 
+\i (00:14:45) setwindow form.sym_wizard
+\i (00:14:45) FORM sym_wizard soic YES 
+\i (00:14:46) FORM sym_wizard plcc YES 
+\i (00:14:47) FORM sym_wizard bga YES 
+\i (00:14:47) FORM sym_wizard rca_th YES 
+\i (00:14:48) FORM sym_wizard rca_smd YES 
+\i (00:14:48) FORM sym_wizard sip YES 
+\i (00:14:48) FORM sym_wizard plcc YES 
+\i (00:14:49) FORM sym_wizard soic YES 
+\i (00:14:50) FORM sym_wizard wiz_next  
+\i (00:14:54) FORM sym_wizard load_template  
+\t (00:14:54) Opening existing design...
+\i (00:14:55) fillin yes 
+\t (00:14:55) Grids are drawn 200, 200 apart for enhanced viewability.
+\i (00:14:55) setwindow pcb
+\i (00:14:55) trapsize 225
+\d (00:14:55) Design opened: C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols/template/sym_template.dra
+\i (00:14:56) setwindow form.sym_wizard
+\i (00:14:56) FORM sym_wizard wiz_next  
+\i (00:14:58) FORM sym_wizard pack_units Millimeter 
+\i (00:15:00) FORM sym_wizard pack_units_create Millimeter 
+\i (00:15:01) FORM sym_wizard wiz_next  
+\i (00:15:36) FORM sym_wizard sop_pin_count 6 
+\i (00:15:45) FORM sym_wizard sop_e 0.950 
+\i (00:15:51) FORM sym_wizard sop_e1 2.400 
+\i (00:16:20) FORM sym_wizard sop_width 1.600 
+\i (00:16:22) FORM sym_wizard sop_len 2.900 
+\i (00:16:24) FORM sym_wizard wiz_next  
+\i (00:16:25) FORM sym_wizard default_pad_browse  
+\i (00:16:40) fillin "Sot32-5"
+\i (00:16:41) FORM sym_wizard wiz_next  
+\i (00:16:45) FORM sym_wizard origin_at_pin1 YES 
+\i (00:16:46) FORM sym_wizard wiz_next  
+\i (00:16:47) FORM sym_wizard wiz_finish  
+\w (00:16:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:16:47) Grids are drawn 5.080, 5.080 apart for enhanced viewability.
+\i (00:16:47) setwindow pcb
+\i (00:16:47) trapsize 5727
+\t (00:16:47) Performing DRC...
+\t (00:16:47) No DRC errors detected.
+\w (00:16:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:16:47) trapsize 5727
+\i (00:16:47) trapsize 808
+\i (00:16:47) trapsize 54
+\i (00:16:47) trapsize 54
+\t (00:16:47) Creating package symbol 'C:/Users/Dan/Documents/GitHub/schn0rchli/PCB_Designer/Symbols/sot23-5.psm'.
+\t (00:16:47) Starting Create symbol...
+\i (00:16:51) zoom out 1 
+\i (00:16:51) setwindow pcb
+\i (00:16:51) zoom out 1.656 -2.410
+\i (00:16:51) trapsize 68
+\i (00:16:51) zoom in 1 
+\i (00:16:51) setwindow pcb
+\i (00:16:51) zoom in -0.600 -1.485
+\i (00:16:51) trapsize 34
+\i (00:16:52) zoom in 1 
+\i (00:16:52) setwindow pcb
+\i (00:16:52) zoom in -0.254 -1.356
+\i (00:16:52) trapsize 17
+\i (00:16:53) zoom out 1 
+\i (00:16:53) setwindow pcb
+\i (00:16:53) zoom out -0.210 -1.356
+\i (00:16:53) trapsize 34
+\i (00:16:54) zoom out 1 
+\i (00:16:54) setwindow pcb
+\i (00:16:54) zoom out -0.203 -1.329
+\i (00:16:54) trapsize 68
+\i (00:16:54) zoom in 1 
+\i (00:16:54) setwindow pcb
+\i (00:16:54) zoom in 0.282 -1.146
+\i (00:16:54) trapsize 34
+\i (00:17:49) refresh padstack 
+\i (00:17:53) setwindow form.rf_pad
+\i (00:17:53) FORM rf_pad execute  
+\t (00:17:53) Starting Refreshing padstacks...
+\t (00:17:54) Opening existing design...
+\i (00:17:54) setwindow pcb
+\i (00:17:54) trapsize 34
+\i (00:17:56) setwindow form.rf_pad
+\i (00:17:56) FORM rf_pad cancel  
+\i (00:17:59) setwindow pcb
+\i (00:17:59) save 
+\i (00:18:00) fillin yes 
+\t (00:18:01) Symbol 'sot23-5.psm' created.
+\i (00:18:30) move 
+\t (00:18:30) Select element(s) to move.
+\i (00:18:31) move 
+\t (00:18:31) Select element(s) to move.
+\i (00:18:34) pick grid 3.810 -0.766
+\t (00:18:34) last pick:  5.080 0.000
+\t (00:18:34) last pick:  2.880 -0.950
+\t (00:18:34) Pick new location for the element(s).
+\i (00:18:35) zoom out 1 
+\i (00:18:35) setwindow pcb
+\i (00:18:35) zoom out 4.177 -0.793
+\i (00:18:35) trapsize 68
+\i (00:18:35) zoom out 1 
+\i (00:18:35) setwindow pcb
+\i (00:18:35) zoom out 8.044 -0.440
+\i (00:18:35) trapsize 68
+\i (00:18:35) zoom out 1 
+\i (00:18:35) setwindow pcb
+\i (00:18:35) zoom out 7.990 -0.386
+\i (00:18:35) trapsize 68
+\i (00:18:35) zoom out 1 
+\i (00:18:35) setwindow pcb
+\i (00:18:35) zoom out 7.922 -0.332
+\i (00:18:35) trapsize 68
+\i (00:18:37) pick grid 3.824 0.075
+\t (00:18:37) last pick:  5.080 0.000
+\i (00:18:38) pick grid 4.733 -1.282
+\t (00:18:38) last pick:  5.080 -2.540
+\i (00:18:39) prepopup -0.071 1.636
+\i (00:18:41) cancel 
+\i (00:18:54) generaledit 
+\i (00:18:56) pick grid 2.928 -0.251
+\t (00:18:56) last pick:  2.540 0.000
+\i (00:19:00) pick grid 2.887 -0.902
+\t (00:19:00) last pick:  2.540 0.000
+\i (00:19:00) prepopup 2.887 -0.902
+\i (00:19:02) pop dyn_option_select @:@Delete 
+\i (00:19:02) delete 
+\i (00:19:02) generaledit 
+\i (00:19:04) pick grid 2.440 0.129
+\t (00:19:04) last pick:  2.540 0.000
+\i (00:19:05) pick grid 2.467 0.089
+\t (00:19:05) last pick:  2.540 0.000
+\i (00:19:05) prepopup 2.467 0.089
+\i (00:19:07) pick grid 3.973 0.767
+\t (00:19:07) last pick:  5.080 0.000
+\i (00:19:08) setwindow form.find
+\i (00:19:08) FORM find all_off  
+\i (00:19:09) FORM find text YES 
+\i (00:19:10) setwindow pcb
+\i (00:19:10) pick grid 2.535 0.143
+\t (00:19:10) last pick:  2.540 0.000
+\i (00:19:11) pick grid 2.440 0.157
+\t (00:19:11) last pick:  2.540 0.000
+\i (00:19:11) prepopup 2.467 0.157
+\i (00:19:13) pop dyn_option_select '@:@Text edit' 
+\i (00:19:13) text edit 
+\i (00:19:16) setwindow form.textedit
+\i (00:19:16) FORM textedit str 5 
+\i (00:19:16) FORM textedit done  
+\i (00:19:16) setwindow pcb
+\i (00:19:16) pick 0.000 0.000
+\t (00:19:16) Pick text to edit.
+\i (00:19:16) setwindow pcb
+\i (00:19:16) generaledit 
+\i (00:19:18) save 
+\i (00:19:19) fillin yes 
+\t (00:19:19) Symbol 'sot23-5.psm' created.
+\i (00:19:19) generaledit 
+\i (00:19:48) exit 
+\t (00:19:48)     Journal end - Mon May 05 11:07:01 2014

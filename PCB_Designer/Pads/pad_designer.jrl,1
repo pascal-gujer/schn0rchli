@@ -1,0 +1,22 @@
+\t (00:04:31) pad_designer 16.6 S022 (v16-6-112BN) Windows 32
+\t (00:04:31)     Journal start - Mon May 05 10:46:59 2014
+\t (00:04:31)         Host=SINKBRETT User=Dan Pid=4796 CPUs=2
+\t (00:04:31) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\pad_designer.exe
+\t (00:04:31) 
+\i (00:04:33) FORM padedit layers  
+\i (00:18:36) pse_new 
+\i (00:18:46) fillin "sot32-5.pad"
+\i (00:18:49) FORM padedit single YES 
+\i (00:18:49) FORM padedit parameters  
+\i (00:18:50) FORM padedit units Millimeter 
+\i (00:18:51) fillin yes 
+\w (00:18:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:18:53) FORM padedit layers  
+\i (00:18:55) FORM padedit grid row begin_layer 
+\i (00:18:58) FORM padedit geometry Rectangle 
+\i (00:19:04) FORM padedit height 1 
+\i (00:19:08) FORM padedit width 0.7 
+\i (00:19:10) FORM padedit crossbox YES 
+\i (00:19:15) pse_save 
+\i (00:19:17) pse_exit
+\t (00:19:17)     Journal end - Mon May 05 11:01:45 2014
