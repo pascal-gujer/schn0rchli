@@ -1,0 +1,350 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 16.6.0 d001May-05-2014 at 12:38:29 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='THERMOMETER';
+ POST_TIME='Jan 13 2014 18:46:08';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'C_0805_0805_C_0805':;
+
+SECTION_NUMBER 1
+ '@THERMOMETER.EP2_SCHEMA(SCH_1):INS8774@EP2_LIB.C_0805.NORMAL(CHIPS)':
+ C_PATH='@thermometer.ep2_schema(sch_1):ins8774@ep2_lib.\c_0805.normal\(chips)',
+ P_PATH='@thermometer.ep2_schema(sch_1):page1_ins8774@ep2_lib.\c_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C10 'C_0805_0805_C_0805':;
+
+SECTION_NUMBER 1
+ '@THERMOMETER.EP2_SCHEMA(SCH_1):INS5403@EP2_LIB.C_0805.NORMAL(CHIPS)':
+ C_PATH='@thermometer.ep2_schema(sch_1):ins5403@ep2_lib.\c_0805.normal\(chips)',
+ P_PATH='@thermometer.ep2_schema(sch_1):page1_ins5403@ep2_lib.\c_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C11 'C_0805_0805_C_0805':;
+
+SECTION_NUMBER 1
+ '@THERMOMETER.EP2_SCHEMA(SCH_1):INS4959@EP2_LIB.C_0805.NORMAL(CHIPS)':
+ C_PATH='@thermometer.ep2_schema(sch_1):ins4959@ep2_lib.\c_0805.normal\(chips)',
+ P_PATH='@thermometer.ep2_schema(sch_1):page1_ins4959@ep2_lib.\c_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C12 'C_0805_0805_C_0805':;
+
+SECTION_NUMBER 1
+ '@THERMOMETER.EP2_SCHEMA(SCH_1):INS8155@EP2_LIB.C_0805.NORMAL(CHIPS)':
+ C_PATH='@thermometer.ep2_schema(sch_1):ins8155@ep2_lib.\c_0805.normal\(chips)',
+ P_PATH='@thermometer.ep2_schema(sch_1):page1_ins8155@ep2_lib.\c_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C13 'C_0805_0805_C_0805':;
+
+SECTION_NUMBER 1
+ '@THERMOMETER.EP2_SCHEMA(SCH_1):INS8204@EP2_LIB.C_0805.NORMAL(CHIPS)':
+ C_PATH='@thermometer.ep2_schema(sch_1):ins8204@ep2_lib.\c_0805.normal\(chips)',
+ P_PATH='@thermometer.ep2_schema(sch_1):page1_ins8204@ep2_lib.\c_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C14 'C_0805_0805_C_0805':;
+
+SECTION_NUMBER 1
+ '@THERMOMETER.EP2_SCHEMA(SCH_1):INS3852@EP2_LIB.C_0805.NORMAL(CHIPS)':
+ C_PATH='@thermometer.ep2_schema(sch_1):ins3852@ep2_lib.\c_0805.normal\(chips)',
+ P_PATH='@thermometer.ep2_schema(sch_1):page1_ins3852@ep2_lib.\c_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C15 'C_0805_0805_C_0805':;
+
+SECTION_NUMBER 1
+ '@THERMOMETER.EP2_SCHEMA(SCH_1):INS6138@EP2_LIB.C_0805.NORMAL(CHIPS)':
+ C_PATH='@thermometer.ep2_schema(sch_1):ins6138@ep2_lib.\c_0805.normal\(chips)',
+ P_PATH='@thermometer.ep2_schema(sch_1):page1_ins6138@ep2_lib.\c_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'C_0805_0805_C_0805':;
+
+SECTION_NUMBER 1
+ '@THERMOMETER.EP2_SCHEMA(SCH_1):INS8790@EP2_LIB.C_0805.NORMAL(CHIPS)':
+ C_PATH='@thermometer.ep2_schema(sch_1):ins8790@ep2_lib.\c_0805.normal\(chips)',
+ P_PATH='@thermometer.ep2_schema(sch_1):page1_ins8790@ep2_lib.\c_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'C_0805_0805_C_0805':;
+
+SECTION_NUMBER 1
+ '@THERMOMETER.EP2_SCHEMA(SCH_1):INS3884@EP2_LIB.C_0805.NORMAL(CHIPS)':
+ C_PATH='@thermometer.ep2_schema(sch_1):ins3884@ep2_lib.\c_0805.normal\(chips)',
+ P_PATH='@thermometer.ep2_schema(sch_1):page1_ins3884@ep2_lib.\c_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'C_0805_0805_C_0805':;
+
+SECTION_NUMBER 1
+ '@THERMOMETER.EP2_SCHEMA(SCH_1):INS5342@EP2_LIB.C_0805.NORMAL(CHIPS)':
+ C_PATH='@thermometer.ep2_schema(sch_1):ins5342@ep2_lib.\c_0805.normal\(chips)',
+ P_PATH='@thermometer.ep2_schema(sch_1):page1_ins5342@ep2_lib.\c_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'C_0805_0805_C_0805':;
+
+SECTION_NUMBER 1
+ '@THERMOMETER.EP2_SCHEMA(SCH_1):INS3836@EP2_LIB.C_0805.NORMAL(CHIPS)':
+ C_PATH='@thermometer.ep2_schema(sch_1):ins3836@ep2_lib.\c_0805.normal\(chips)',
+ P_PATH='@thermometer.ep2_schema(sch_1):page1_ins3836@ep2_lib.\c_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'C_0805_0805_C_0805':;
+
+SECTION_NUMBER 1
+ '@THERMOMETER.EP2_SCHEMA(SCH_1):INS3868@EP2_LIB.C_0805.NORMAL(CHIPS)':
+ C_PATH='@thermometer.ep2_schema(sch_1):ins3868@ep2_lib.\c_0805.normal\(chips)',
+ P_PATH='@thermometer.ep2_schema(sch_1):page1_ins3868@ep2_lib.\c_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'C_0805_0805_C_0805':;
+
+SECTION_NUMBER 1
+ '@THERMOMETER.EP2_SCHEMA(SCH_1):INS4509@EP2_LIB.C_0805.NORMAL(CHIPS)':
+ C_PATH='@thermometer.ep2_schema(sch_1):ins4509@ep2_lib.\c_0805.normal\(chips)',
+ P_PATH='@thermometer.ep2_schema(sch_1):page1_ins4509@ep2_lib.\c_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C8 'C_0805_0805_C_0805':;
+
+SECTION_NUMBER 1
+ '@THERMOMETER.EP2_SCHEMA(SCH_1):INS4525@EP2_LIB.C_0805.NORMAL(CHIPS)':
+ C_PATH='@thermometer.ep2_schema(sch_1):ins4525@ep2_lib.\c_0805.normal\(chips)',
+ P_PATH='@thermometer.ep2_schema(sch_1):page1_ins4525@ep2_lib.\c_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C9 'C_0805_0805_C_0805':;
+
+SECTION_NUMBER 1
+ '@THERMOMETER.EP2_SCHEMA(SCH_1):INS4445@EP2_LIB.C_0805.NORMAL(CHIPS)':
+ C_PATH='@thermometer.ep2_schema(sch_1):ins4445@ep2_lib.\c_0805.normal\(chips)',
+ P_PATH='@thermometer.ep2_schema(sch_1):page1_ins4445@ep2_lib.\c_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'LED_KINGBRIGHT_KPJA2107_LED':;
+
+SECTION_NUMBER 1
+ '@THERMOMETER.EP2_SCHEMA(SCH_1):INS9384@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@thermometer.ep2_schema(sch_1):ins9384@discrete.\led.normal\(chips)',
+ P_PATH='@thermometer.ep2_schema(sch_1):page1_ins9384@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D2 'LED_KINGBRIGHT_KPJA2107_LED':;
+
+SECTION_NUMBER 1
+ '@THERMOMETER.EP2_SCHEMA(SCH_1):INS9400@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@thermometer.ep2_schema(sch_1):ins9400@discrete.\led.normal\(chips)',
+ P_PATH='@thermometer.ep2_schema(sch_1):page1_ins9400@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'CON6_PINHEAD_6_CON6':;
+
+SECTION_NUMBER 1
+ '@THERMOMETER.EP2_SCHEMA(SCH_1):INS10685@CONNECTOR.CON6.NORMAL(CHIPS)':
+ C_PATH='@thermometer.ep2_schema(sch_1):ins10685@connector.\con6.normal\(chips)',
+ P_PATH='@thermometer.ep2_schema(sch_1):page1_ins10685@connector.\con6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ P1 'USB_A_FEMALE_USBFEMALETYPA_USB_':;
+
+SECTION_NUMBER 1
+ '@THERMOMETER.EP2_SCHEMA(SCH_1):INS3707@EP2_LIB.USB_A_FEMALE.NORMAL(CHIPS)':
+ C_PATH='@thermometer.ep2_schema(sch_1):ins3707@ep2_lib.\usb_a_female.normal\(chips)',
+ P_PATH='@thermometer.ep2_schema(sch_1):page1_ins3707@ep2_lib.\usb_a_female.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'R_0805_0805_R_0805':;
+
+SECTION_NUMBER 1
+ '@THERMOMETER.EP2_SCHEMA(SCH_1):INS9452@EP2_LIB.R_0805.NORMAL(CHIPS)':
+ C_PATH='@thermometer.ep2_schema(sch_1):ins9452@ep2_lib.\r_0805.normal\(chips)',
+ P_PATH='@thermometer.ep2_schema(sch_1):page1_ins9452@ep2_lib.\r_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'R_0805_0805_R_0805':;
+
+SECTION_NUMBER 1
+ '@THERMOMETER.EP2_SCHEMA(SCH_1):INS9468@EP2_LIB.R_0805.NORMAL(CHIPS)':
+ C_PATH='@thermometer.ep2_schema(sch_1):ins9468@ep2_lib.\r_0805.normal\(chips)',
+ P_PATH='@thermometer.ep2_schema(sch_1):page1_ins9468@ep2_lib.\r_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'R_0805_0805_R_0805':;
+
+SECTION_NUMBER 1
+ '@THERMOMETER.EP2_SCHEMA(SCH_1):INS7732@EP2_LIB.R_0805.NORMAL(CHIPS)':
+ C_PATH='@thermometer.ep2_schema(sch_1):ins7732@ep2_lib.\r_0805.normal\(chips)',
+ P_PATH='@thermometer.ep2_schema(sch_1):page1_ins7732@ep2_lib.\r_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'R_0805_0805_R_0805':;
+
+SECTION_NUMBER 1
+ '@THERMOMETER.EP2_SCHEMA(SCH_1):INS7716@EP2_LIB.R_0805.NORMAL(CHIPS)':
+ C_PATH='@thermometer.ep2_schema(sch_1):ins7716@ep2_lib.\r_0805.normal\(chips)',
+ P_PATH='@thermometer.ep2_schema(sch_1):page1_ins7716@ep2_lib.\r_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'R_0805_0805_R_0805':;
+
+SECTION_NUMBER 1
+ '@THERMOMETER.EP2_SCHEMA(SCH_1):INS10799@EP2_LIB.R_0805.NORMAL(CHIPS)':
+ C_PATH='@thermometer.ep2_schema(sch_1):ins10799@ep2_lib.\r_0805.normal\(chips)',
+ P_PATH='@thermometer.ep2_schema(sch_1):page1_ins10799@ep2_lib.\r_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'R_0805_0805_R_0805':;
+
+SECTION_NUMBER 1
+ '@THERMOMETER.EP2_SCHEMA(SCH_1):INS12876@EP2_LIB.R_0805.NORMAL(CHIPS)':
+ C_PATH='@thermometer.ep2_schema(sch_1):ins12876@ep2_lib.\r_0805.normal\(chips)',
+ P_PATH='@thermometer.ep2_schema(sch_1):page1_ins12876@ep2_lib.\r_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW1 'SCHALTER_PRGSWITCH_SCHALTER':;
+
+SECTION_NUMBER 1
+ '@THERMOMETER.EP2_SCHEMA(SCH_1):INS5497@EP2_LIB.SCHALTER.NORMAL(CHIPS)':
+ C_PATH='@thermometer.ep2_schema(sch_1):ins5497@ep2_lib.\schalter.normal\(chips)',
+ P_PATH='@thermometer.ep2_schema(sch_1):page1_ins5497@ep2_lib.\schalter.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW2 'TASTER_PUSH_BUTTON_KSR221_TASTE':;
+
+SECTION_NUMBER 1
+ '@THERMOMETER.EP2_SCHEMA(SCH_1):INS7675@EP2_LIB.TASTER.NORMAL(CHIPS)':
+ C_PATH='@thermometer.ep2_schema(sch_1):ins7675@ep2_lib.\taster.normal\(chips)',
+ P_PATH='@thermometer.ep2_schema(sch_1):page1_ins7675@ep2_lib.\taster.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW3 'TASTER_PUSH_BUTTON_KSR221_TASTE':;
+
+SECTION_NUMBER 1
+ '@THERMOMETER.EP2_SCHEMA(SCH_1):INS7691@EP2_LIB.TASTER.NORMAL(CHIPS)':
+ C_PATH='@thermometer.ep2_schema(sch_1):ins7691@ep2_lib.\taster.normal\(chips)',
+ P_PATH='@thermometer.ep2_schema(sch_1):page1_ins7691@ep2_lib.\taster.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'XTAL_CRYSTAL_XTAL':;
+
+SECTION_NUMBER 1
+ '@THERMOMETER.EP2_SCHEMA(SCH_1):INS8713@EP2_LIB.XTAL.NORMAL(CHIPS)':
+ C_PATH='@thermometer.ep2_schema(sch_1):ins8713@ep2_lib.\xtal.normal\(chips)',
+ P_PATH='@thermometer.ep2_schema(sch_1):page1_ins8713@ep2_lib.\xtal.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'USB_A_MALE_USBMALETYPA_USB_A_MA':;
+
+SECTION_NUMBER 1
+ '@THERMOMETER.EP2_SCHEMA(SCH_1):INS3803@EP2_LIB.USB_A_MALE.NORMAL(CHIPS)':
+ C_PATH='@thermometer.ep2_schema(sch_1):ins3803@ep2_lib.\usb_a_male.normal\(chips)',
+ P_PATH='@thermometer.ep2_schema(sch_1):page1_ins3803@ep2_lib.\usb_a_male.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U3 'STM32F205_STM32F205_<VALUE>':;
+
+SECTION_NUMBER 1
+ '@THERMOMETER.EP2_SCHEMA(SCH_1):INS3540@EP2_LIB.STM32F205.NORMAL(CHIPS)':
+ C_PATH='@thermometer.ep2_schema(sch_1):ins3540@ep2_lib.\stm32f205.normal\(chips)',
+ P_PATH='@thermometer.ep2_schema(sch_1):page1_ins3540@ep2_lib.\stm32f205.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U4 'MIDAS_LCD_0_DISPLAY_MIDAS_LCD':;
+
+SECTION_NUMBER 1
+ '@THERMOMETER.EP2_SCHEMA(SCH_1):INS8096@THERMOMETER.MIDAS_LCD_0.NORMAL(CHIPS)':
+ C_PATH='@thermometer.ep2_schema(sch_1):ins8096@thermometer.\midas_lcd_0.normal\(chips)',
+ P_PATH='@thermometer.ep2_schema(sch_1):page1_ins8096@thermometer.\midas_lcd_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U5 'MIC5265_SOT23-5_MIC5265':;
+
+SECTION_NUMBER 1
+ '@THERMOMETER.EP2_SCHEMA(SCH_1):INS4099@EP2_LIB.MIC5265.NORMAL(CHIPS)':
+ C_PATH='@thermometer.ep2_schema(sch_1):ins4099@ep2_lib.\mic5265.normal\(chips)',
+ P_PATH='@thermometer.ep2_schema(sch_1):page1_ins4099@ep2_lib.\mic5265.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U6 'S25FL208K_SOIC8_N_S25FL208K':;
+
+SECTION_NUMBER 1
+ '@THERMOMETER.EP2_SCHEMA(SCH_1):INS5784@EP2_LIB.S25FL208K.NORMAL(CHIPS)':
+ C_PATH='@thermometer.ep2_schema(sch_1):ins5784@ep2_lib.\s25fl208k.normal\(chips)',
+ P_PATH='@thermometer.ep2_schema(sch_1):page1_ins5784@ep2_lib.\s25fl208k.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

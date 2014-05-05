@@ -1,0 +1,267 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  C:.../GitHub/schn0rchli/PCB_Designer/Boards/Board_V_1_0_85x75.brd           |
+|                                                    Mon May 05 12:38:29 2014  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  3V3          pins ADDED TO this new net
+                                 C3.1           C5.1           C6.2           
+                                 C7.1           C8.1           C11.1          
+                                 C13.2          C14.2          C15.1          
+                                 R1.2           R2.2           R3.1           
+                                 R4.1           R5.1           SW1.1          
+                                 U3.13          U3.19          U3.32          
+                                 U3.48          U3.64          U4.4           
+                                 U5.5           U6.3           U6.7           
+                                 U6.8           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND          pins ADDED TO this new net
+                                 C1.2           C2.2           C3.2           
+                                 C4.2           C5.2           C6.1           
+                                 C7.2           C8.2           C9.2           
+                                 C10.2          C11.2          C14.1          
+                                 C15.2          J1.3           SW1.3          
+                                 SW2.1          SW3.1          U3.12          
+                                 U3.18          U3.63          U4.5           
+                                 U4.8           U4.K           U6.4           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND_SIGNAL   pins ADDED TO this new net
+                                 P1.4           U2.4           U5.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N05358       pins ADDED TO this new net
+                                 C4.1           U3.47          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N05450       pins ADDED TO this new net
+                                 C10.1          U3.31          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N05685       pins ADDED TO this new net
+                                 SW1.2          U3.60          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N05689       pins ADDED TO this new net
+                                 U2.2           U3.45          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N05714       pins ADDED TO this new net
+                                 U2.3           U3.44          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N05739       pins ADDED TO this new net
+                                 P1.2           U3.35          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N05751       pins ADDED TO this new net
+                                 P1.3           U3.36          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  C:.../GitHub/schn0rchli/PCB_Designer/Boards/Board_V_1_0_85x75.brd           |
+|                                                    Mon May 05 12:38:29 2014  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  N06248       pins ADDED TO this new net
+                                 U3.22          U6.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N06281       pins ADDED TO this new net
+                                 U3.20          U6.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N07604       pins ADDED TO this new net
+                                 U3.21          U6.6           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N07637       pins ADDED TO this new net
+                                 U3.23          U6.5           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N08036       pins ADDED TO this new net
+                                 R4.2           SW3.2          U3.9           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N08040       pins ADDED TO this new net
+                                 R3.2           SW2.2          U3.8           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N08183       pins ADDED TO this new net
+                                 C12.2          U4.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N08220       pins ADDED TO this new net
+                                 C13.1          U4.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N08493       pins ADDED TO this new net
+                                 C12.1          U4.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N08729       pins ADDED TO this new net
+                                 C1.1           U1.1           U3.6           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N08747       pins ADDED TO this new net
+                                 C2.1           U1.2           U3.5           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N09420       pins ADDED TO this new net
+                                 D2.1           U3.50          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N09427       pins ADDED TO this new net
+                                 D1.1           U3.51          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N09557       pins ADDED TO this new net
+                                 D1.2           R1.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N09564       pins ADDED TO this new net
+                                 D2.2           R2.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  C:.../GitHub/schn0rchli/PCB_Designer/Boards/Board_V_1_0_85x75.brd           |
+|                                                    Mon May 05 12:38:29 2014  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  N10949       pins ADDED TO this new net
+                                 J1.1           R5.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N11044       pins ADDED TO this new net
+                                 J1.2           U3.49          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N11071       pins ADDED TO this new net
+                                 J1.4           U3.46          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N12892       pins ADDED TO this new net
+                                 R6.2           U4.A           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N12896       pins ADDED TO this new net
+                                 R6.1           U3.16          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N041153      pins ADDED TO this new net
+                                 C9.1           U5.4           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  NRST         pins ADDED TO this new net
+                                 J1.5           U3.7           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VBAT         pins ADDED TO this new net
+                                 U3.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VUSB         pins ADDED TO this new net
+                                 P1.1           U2.1           U5.1           
+                                 U5.3           
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  C:.../GitHub/schn0rchli/PCB_Designer/Boards/Board_V_1_0_85x75.brd           |
+|                                                    Mon May 05 12:38:29 2014  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to design                                         |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ CON6_PINHEAD_6_CON6
+ C_0805_0805_C_0805
+ LED_KINGBRIGHT_KPJA2107_LED
+ MIC5265_SOT23-5_MIC5265
+ MIDAS_LCD_0_DISPLAY_MIDAS_LCD
+ R_0805_0805_R_0805
+ S25FL208K_SOIC8_N_S25FL208K
+ SCHALTER_PRGSWITCH_SCHALTER
+ STM32F205_STM32F205_<VALUE>
+ TASTER_PUSH_BUTTON_KSR221_TASTE
+ USB_A_FEMALE_USBFEMALETYPA_USB_
+ USB_A_MALE_USBMALETYPA_USB_A_MA
+ XTAL_CRYSTAL_XTAL
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  C:.../GitHub/schn0rchli/PCB_Designer/Boards/Board_V_1_0_85x75.brd           |
+|                                                    Mon May 05 12:38:29 2014  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to design                                                   |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1                  C_0805_0805_C_0805    
+ C2                  C_0805_0805_C_0805    
+ C3                  C_0805_0805_C_0805    
+ C4                  C_0805_0805_C_0805    
+ C5                  C_0805_0805_C_0805    
+ C6                  C_0805_0805_C_0805    
+ C7                  C_0805_0805_C_0805    
+ C8                  C_0805_0805_C_0805    
+ C9                  C_0805_0805_C_0805    
+ C10                 C_0805_0805_C_0805    
+ C11                 C_0805_0805_C_0805    
+ C12                 C_0805_0805_C_0805    
+ C13                 C_0805_0805_C_0805    
+ C14                 C_0805_0805_C_0805    
+ C15                 C_0805_0805_C_0805    
+ D1                  LED_KINGBRIGHT_KPJA2107_LED 
+ D2                  LED_KINGBRIGHT_KPJA2107_LED 
+ J1                  CON6_PINHEAD_6_CON6   
+ P1                  USB_A_FEMALE_USBFEMALETYPA_USB_ 
+ R1                  R_0805_0805_R_0805    
+ R2                  R_0805_0805_R_0805    
+ R3                  R_0805_0805_R_0805    
+ R4                  R_0805_0805_R_0805    
+ R5                  R_0805_0805_R_0805    
+ R6                  R_0805_0805_R_0805    
+ SW1                 SCHALTER_PRGSWITCH_SCHALTER 
+ SW2                 TASTER_PUSH_BUTTON_KSR221_TASTE 
+ SW3                 TASTER_PUSH_BUTTON_KSR221_TASTE 
+ U1                  XTAL_CRYSTAL_XTAL     
+ U2                  USB_A_MALE_USBMALETYPA_USB_A_MA 
+ U3                  STM32F205_STM32F205_<VALUE> 
+ U4                  MIDAS_LCD_0_DISPLAY_MIDAS_LCD 
+ U5                  MIC5265_SOT23-5_MIC5265 
+ U6                  S25FL208K_SOIC8_N_S25FL208K 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   6  |
+|------------------------------------------------------------------------------|
+|  C:.../GitHub/schn0rchli/PCB_Designer/Boards/Board_V_1_0_85x75.brd           |
+|                                                    Mon May 05 12:38:29 2014  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1.2                           PRIM_FILE      .\pstchip.dat
+ C2.2                           PRIM_FILE      .\pstchip.dat
+ C3.2                           PRIM_FILE      .\pstchip.dat
+ C4.2                           PRIM_FILE      .\pstchip.dat
+ C5.2                           PRIM_FILE      .\pstchip.dat
+ C6.2                           PRIM_FILE      .\pstchip.dat
+ C7.2                           PRIM_FILE      .\pstchip.dat
+ C8.2                           PRIM_FILE      .\pstchip.dat
+ C9.2                           PRIM_FILE      .\pstchip.dat
+ C10.2                          PRIM_FILE      .\pstchip.dat
+ C11.2                          PRIM_FILE      .\pstchip.dat
+ C12.2                          PRIM_FILE      .\pstchip.dat
+ C13.2                          PRIM_FILE      .\pstchip.dat
+ C14.2                          PRIM_FILE      .\pstchip.dat
+ C15.2                          PRIM_FILE      .\pstchip.dat
+ D1.1                           PRIM_FILE      .\pstchip.dat
+ D2.1                           PRIM_FILE      .\pstchip.dat
+ J1.6                           PRIM_FILE      .\pstchip.dat
+ P1.2                           PRIM_FILE      .\pstchip.dat
+ R1.2                           PRIM_FILE      .\pstchip.dat
+ R2.2                           PRIM_FILE      .\pstchip.dat
+ R3.2                           PRIM_FILE      .\pstchip.dat
+ R4.2                           PRIM_FILE      .\pstchip.dat
+ R5.2                           PRIM_FILE      .\pstchip.dat
+ R6.2                           PRIM_FILE      .\pstchip.dat
+ SW1.3                          PRIM_FILE      .\pstchip.dat
+ SW2.2                          PRIM_FILE      .\pstchip.dat
+ SW3.2                          PRIM_FILE      .\pstchip.dat
+ U1.2                           PRIM_FILE      .\pstchip.dat
+ U2.2                           PRIM_FILE      .\pstchip.dat
+ U3.12                          PRIM_FILE      .\pstchip.dat
+ U4.5                           PRIM_FILE      .\pstchip.dat
+ U5.1                           PRIM_FILE      .\pstchip.dat
+ U6.3                           PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|   total ECO changes reported  200                                            |
+|------------------------------------------------------------------------------|

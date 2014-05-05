@@ -1,0 +1,53 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    QUICKPLACE LOG                                                   )
+(                                                                     )
+(    Drawing          : Board_V_1_0_85x75.brd                         )
+(    Software Version : 16.6S025                                      )
+(    Date/Time        : Mon May 05 12:38:53 2014                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+State: Placing on layer TOP
+
+         Placed symbol:  U3 / STM32F205_STM32F205_<VALUE> / STM32F205 at (1.6032 96.1032)
+         Placed symbol:  U4 / MIDAS_LCD_0_DISPLAY_MIDAS_LCD / DISPLAY at (32.6764 109.0632)
+         Placed symbol:  U6 / S25FL208K_SOIC8_N_S25FL208K / SOIC8_N at (36.9816 90.4082)
+         Placed symbol:  J1 / CON6_PINHEAD_6_CON6 / PINHEAD_6 at (45.0133 101.3532)
+         Placed symbol:  U5 / MIC5265_SOT23-5_MIC5265 / SOT23-5 at (47.9135 88.4032)
+         Placed symbol:  P1 / USB_A_FEMALE_USBFEMALETYPA_USB_ / USBFEMALETYPA at (66.8167 98.2232)
+         Placed symbol:  U2 / USB_A_MALE_USBMALETYPA_USB_A_MA / USBMALETYPA at (5.6032 148.4164)
+         Placed symbol:  SW1 / SCHALTER_PRGSWITCH_SCHALTER / PRGSWITCH at (13.8064 138.8164)
+         Placed symbol:  C3 / C_0805_0805_C_0805 / 0805 at (21.7596 139.3164)
+         Placed symbol:  C2 / C_0805_0805_C_0805 / 0805 at (26.5628 139.3164)
+         Placed symbol:  C5 / C_0805_0805_C_0805 / 0805 at (31.3660 139.3164)
+         Placed symbol:  C4 / C_0805_0805_C_0805 / 0805 at (36.1692 139.3164)
+         Placed symbol:  C14 / C_0805_0805_C_0805 / 0805 at (40.9724 139.3164)
+         Placed symbol:  C8 / C_0805_0805_C_0805 / 0805 at (45.7756 139.3164)
+         Placed symbol:  C6 / C_0805_0805_C_0805 / 0805 at (50.5788 139.3164)
+         Placed symbol:  D1 / LED_KINGBRIGHT_KPJA2107_LED / KINGBRIGHT_KPJA2107 at (56.6820 139.1664)
+         Placed symbol:  C7 / C_0805_0805_C_0805 / 0805 at (60.4852 139.3164)
+         Placed symbol:  C12 / C_0805_0805_C_0805 / 0805 at (65.2884 139.3164)
+         Placed symbol:  C15 / C_0805_0805_C_0805 / 0805 at (70.0916 139.3164)
+         Placed symbol:  C9 / C_0805_0805_C_0805 / 0805 at (1.7532 153.3196)
+         Placed symbol:  R2 / R_0805_0805_R_0805 / 0805 at (6.5564 153.3196)
+         Placed symbol:  R3 / R_0805_0805_R_0805 / 0805 at (11.3596 153.3196)
+         Placed symbol:  R4 / R_0805_0805_R_0805 / 0805 at (16.1628 153.3196)
+         Placed symbol:  R5 / R_0805_0805_R_0805 / 0805 at (20.9660 153.3196)
+         Placed symbol:  R6 / R_0805_0805_R_0805 / 0805 at (25.7692 153.3196)
+         Placed symbol:  D2 / LED_KINGBRIGHT_KPJA2107_LED / KINGBRIGHT_KPJA2107 at (31.8724 153.1696)
+         Placed symbol:  SW2 / TASTER_PUSH_BUTTON_KSR221_TASTE / PUSH_BUTTON_KSR221 at (38.9256 154.3196)
+         Placed symbol:  SW3 / TASTER_PUSH_BUTTON_KSR221_TASTE / PUSH_BUTTON_KSR221 at (47.9288 154.3196)
+         Placed symbol:  U1 / XTAL_CRYSTAL_XTAL / CRYSTAL at (55.6320 154.0196)
+         Placed symbol:  C13 / C_0805_0805_C_0805 / 0805 at (60.0852 153.3196)
+         Placed symbol:  C11 / C_0805_0805_C_0805 / 0805 at (64.8884 153.3196)
+         Placed symbol:  C10 / C_0805_0805_C_0805 / 0805 at (69.6916 153.3196)
+         Placed symbol:  R1 / R_0805_0805_R_0805 / 0805 at (1.7532 158.1228)
+         Placed symbol:  C1 / C_0805_0805_C_0805 / 0805 at (6.5564 158.1228)
+
+
+Placed 34 of 34 applicable (34 total) symbols.
+
+-----------------------------------------------------------------------
+

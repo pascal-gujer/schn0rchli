@@ -2,19 +2,19 @@
 (                                                                     )
 (    Refresh Padstack                                                 )
 (                                                                     )
-(    Drawing          : stm32f205.dra                                 )
+(    Drawing          : sot23-5.dra                                   )
 (    Software Version : 16.6S025                                      )
-(    Date/Time        : Mon May 05 12:42:00 2014                      )
+(    Date/Time        : Mon May 05 11:05:06 2014                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
-Mon May 05 12:42:00 2014				Page     1
+Mon May 05 11:05:06 2014				Page     1
 
 
 ------ Pad Stack Refresh Options ------
 
-Input design = 'C:/Users/Dan/Documents/GitHub/schn0rchli/PCB_Designer/Symbols/stm32f205.dra'
+Input design = 'C:/Users/Dan/Documents/GitHub/schn0rchli/PCB_Designer/Symbols/sot23-5.dra'
 Output design = ''
 Reset symbol text and size locations = 'NO'
 
@@ -42,8 +42,8 @@ PADPATH =  .
 
 ------ Pad Stack Refresh Messages ------
 
-'LQFP64'  pad stack refresh starting.
+'SOT32-5'  pad stack refresh starting.
 
-     'LQFP64'  pad stack refreshed successfully.
+     'SOT32-5'  pad stack refreshed successfully.
      
 Completed refreshing all pad stacks successfully.

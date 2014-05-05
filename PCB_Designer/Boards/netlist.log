@@ -1,6 +1,21 @@
-{ Using PSTWRITER 16.6.0 d001May-05-2014 at 10:58:58 }
+{ Using PSTWRITER 16.6.0 d001May-05-2014 at 12:38:26 }
 
-#1 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance U4: EP2_Schema, PAGE1 (0.80, 3.50).
-#2 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance U5: EP2_Schema, PAGE1 (9.50, 3.40).
-#3 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance SW1: EP2_Schema, PAGE1 (4.20, 0.30).
-#4 ERROR(ORCAP-36018): Aborting Netlisting... Please correct the above errors and retry.
+#1 WARNING(ORCAP-36006): Part Name "USB_A_FEMALE_USBFEMALETYPA_USB_A_FEMALE" is renamed to "USB_A_FEMALE_USBFEMALETYPA_USB_".
+#2 WARNING(ORCAP-36006): Part Name "TASTER_PUSH_BUTTON_KSR221_TASTER" is renamed to "TASTER_PUSH_BUTTON_KSR221_TASTE".
+#3 WARNING(ORCAP-36006): Part Name "USB_A_MALE_USBMALETYPA_USB_A_MALE" is renamed to "USB_A_MALE_USBMALETYPA_USB_A_MA".
+#4 WARNING(ORCAP-36042): Pin "VSS" is renamed to "VSS#18" as visible power pin of same name already exists in Package STM32F205 , U3: EP2_Schema, PAGE1 (3.30, 1.30).
+#5 WARNING(ORCAP-36042): Pin "VDD" is renamed to "VDD#19" as visible power pin of same name already exists in Package STM32F205 , U3: EP2_Schema, PAGE1 (3.30, 1.30).
+#6 WARNING(ORCAP-36042): Pin "VDD" is renamed to "VDD#32" as visible power pin of same name already exists in Package STM32F205 , U3: EP2_Schema, PAGE1 (3.30, 1.30).
+#7 WARNING(ORCAP-36042): Pin "VDD" is renamed to "VDD#48" as visible power pin of same name already exists in Package STM32F205 , U3: EP2_Schema, PAGE1 (3.30, 1.30).
+#8 WARNING(ORCAP-36042): Pin "VSS" is renamed to "VSS#63" as visible power pin of same name already exists in Package STM32F205 , U3: EP2_Schema, PAGE1 (3.30, 1.30).
+#9 WARNING(ORCAP-36042): Pin "VDD" is renamed to "VDD#64" as visible power pin of same name already exists in Package STM32F205 , U3: EP2_Schema, PAGE1 (3.30, 1.30).
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... C:\USERS\DAN\DOCUMENTS\GITHUB\SCHN0RCHLI\PCB_DESIGNER\BOARDS/pstchip.dat
+
+Loading... C:\USERS\DAN\DOCUMENTS\GITHUB\SCHN0RCHLI\PCB_DESIGNER\BOARDS/pstchip.dat
+
+Loading... C:\USERS\DAN\DOCUMENTS\GITHUB\SCHN0RCHLI\PCB_DESIGNER\BOARDS/pstxprt.dat
+
+Loading... C:\USERS\DAN\DOCUMENTS\GITHUB\SCHN0RCHLI\PCB_DESIGNER\BOARDS/pstxnet.dat
+packaging the design view...

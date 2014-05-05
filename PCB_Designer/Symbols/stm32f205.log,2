@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : stm32f205.dra                                 )
 (    Software Version : 16.6S025                                      )
-(    Date/Time        : Mon May 05 12:42:12 2014                      )
+(    Date/Time        : Fri Apr 11 11:19:33 2014                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -13,11 +13,12 @@ Create Symbol of type: PACKAGE
     Directory = C:/Users/Dan/Documents/GitHub/schn0rchli/PCB_Designer/Symbols
     Name      = stm32f205.psm
     User      = Dan
-    Machine   = SINKBRETT
+    Machine   = TROLOLOLOLAPTOP
 
 
 Create symbol started.
  
+ WARNING(SPMHA1-301): Create symbol DRC errors exist. 
 
 Create symbol completed.
 

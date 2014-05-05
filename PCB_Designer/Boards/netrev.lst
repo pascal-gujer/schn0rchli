@@ -1,0 +1,93 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : Board_V_1_0_85x75.brd                         )
+(    Software Version : 16.6S025                                      )
+(    Date/Time        : Mon May 05 12:38:29 2014                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------------
+
+Ripup etch:                  No
+Ripup delete first segment:  No
+Ripup retain bondwire:       No
+Ripup symbols:               Always
+Missing symbol has error:    No
+DRC update:                  Yes
+Schematic directory:         'C:\USERS\DAN\DOCUMENTS\GITHUB\SCHN0RCHLI\PCB_DESIGNER\BOARDS'
+Design Directory:            'C:/Users/Dan/Documents/GitHub/schn0rchli/PCB_Designer/Boards'
+Old design name:             'C:/Users/Dan/Documents/GitHub/schn0rchli/PCB_Designer/Boards/Board_V_1_0_85x75.brd'
+New design name:             'C:/Users/Dan/Documents/GitHub/schn0rchli/PCB_Designer/Boards/Board_V_1_0_85x75.brd'
+
+CmdLine: netrev.exe -y 1 -i C:\USERS\DAN\DOCUMENTS\GITHUB\SCHN0RCHLI\PCB_DESIGNER\BOARDS C:\Users\Dan\Documents\GitHub\schn0rchli\PCB_Designer\Boards\Board_V_1_0_85x75.brd C:\Users\Dan\Documents\GitHub\schn0rchli\PCB_Designer\Boards\Board_V_1_0_85x75.brd
+
+------ Preparing to read pst files ------
+
+Starting to read C:/USERS/DAN/DOCUMENTS/GITHUB/SCHN0RCHLI/PCB_DESIGNER/BOARDS/pstchip.dat 
+   Finished reading C:/USERS/DAN/DOCUMENTS/GITHUB/SCHN0RCHLI/PCB_DESIGNER/BOARDS/pstchip.dat (00:00:00.08)
+Starting to read C:/USERS/DAN/DOCUMENTS/GITHUB/SCHN0RCHLI/PCB_DESIGNER/BOARDS/pstxprt.dat 
+   Finished reading C:/USERS/DAN/DOCUMENTS/GITHUB/SCHN0RCHLI/PCB_DESIGNER/BOARDS/pstxprt.dat (00:00:00.00)
+Starting to read C:/USERS/DAN/DOCUMENTS/GITHUB/SCHN0RCHLI/PCB_DESIGNER/BOARDS/pstxnet.dat 
+   Finished reading C:/USERS/DAN/DOCUMENTS/GITHUB/SCHN0RCHLI/PCB_DESIGNER/BOARDS/pstxnet.dat (00:00:00.00)
+
+------ Oversights/Warnings/Errors ------
+
+
+------ Library Paths ------
+MODULEPATH =  . 
+           C:/Cadence/SPB_16.6/share/local/pcb/modules 
+
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_16.6/share/local/pcb/symbols 
+           C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_16.6/share/pcb/allegrolib/symbols 
+           C:/Users/Dan/Documents/GitHub/schn0rchli/PCB_Designer/Symbols/ 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_16.6/share/local/pcb/padstacks 
+           C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_16.6/share/pcb/allegrolib/symbols 
+           C:/Users/Dan/Documents/FilterBoardStromkoffer/ 
+           C:/Users/Dan/Documents/GitHub/schn0rchli/PCB_Designer/Pads/ 
+
+
+------ Summary Statistics ------
+
+
+netrev run on May 5 12:38:29 2014
+   DESIGN NAME : 'THERMOMETER'
+   PACKAGING ON Jan 13 2014 18:46:08
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ No warning detected
+
+cpu time      0:01:00
+elapsed time  0:00:01
+
