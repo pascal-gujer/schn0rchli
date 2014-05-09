@@ -1,9 +1,9 @@
-Fri May 09 11:12:41 2014				Page     1
+Mon May 05 13:12:42 2014				Page     1
 
 
  
 Update Symbols/Modules Logfile
-	Fri May 09 11:12:41 2014
+	Mon May 05 13:12:42 2014
 
 ------ Module Refresh Messages ------
 
@@ -19,12 +19,12 @@ SUMMARY:    Updated 0 out of 0 modules
 (                                                                     )
 (    Drawing          : Board_V_1_0.brd                               )
 (    Software Version : 16.6S025                                      )
-(    Date/Time        : Fri May 09 11:12:41 2014                      )
+(    Date/Time        : Mon May 05 13:12:42 2014                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
-Fri May 09 11:12:41 2014				Page     1
+Mon May 05 13:12:42 2014				Page     1
 
 
 ------ Symbol Refresh Directives ------
@@ -35,12 +35,12 @@ Update mechanical symbols = 'NO'
 Update format symbols = 'NO'
 Update package symbols = 'NO'
 Update shape/flash symbols = 'NO'
-Update symbol padstacks = 'YES'
+Update symbol padstacks = 'NO'
 Reset symbol text and size locations = 'NO'
 Reset Pin Escapes (fanouts) = 'NO'
 Ripup Etch = 'NO'
 Reset custom drill data = 'NO'
-Symbol list file = 'C:/Users/Dan/AppData/Local/Temp/#Taaaaau02340.tmp'
+Symbol list file = 'C:/Users/Dan/AppData/Local/Temp/#Taaaaad06484.tmp'
 
 
 ------ Library Paths ------
@@ -66,12 +66,7 @@ PADPATH =  .
 
 ------ Symbol Refresh Messages ------
 
-'STM32F205'  symbol refreshed successfully.
-
-
------- Pad Stack Refresh Messages ------
-
-'LQFP64'  pad stack refreshed successfully.
+'DISPLAY'  symbol refreshed successfully.
 
 
 ----- Symbol Update Summary ----

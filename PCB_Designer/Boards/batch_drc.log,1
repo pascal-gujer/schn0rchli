@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : Board_V_1_0.brd                               )
 (    Software Version : 16.6S025                                      )
-(    Date/Time        : Fri May 09 11:52:46 2014                      )
+(    Date/Time        : Fri May 09 11:16:49 2014                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -19,7 +19,8 @@
  ========= check standalone lines             0:00:00
  ========= check standalone text              0:00:00
  ========= check standalone rectangles        0:00:00
- DRC update aborted by user
+
+ ..... Total number of DRC errors  65
 
  ..... DRC update completed, total CPU time   0:00:00
  *************************************************************************

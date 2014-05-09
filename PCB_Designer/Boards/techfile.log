@@ -1,0 +1,227 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Technology File READ                                             )
+(                                                                     )
+(    Drawing          : Board_V_1_0.brd                               )
+(    Software Version : 16.6S025                                      )
+(    Date/Time        : Fri May 09 11:05:53 2014                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+techfile name: C:/Users/Dan/Desktop/tech.tcf
+  layout name: C:/USERS/DAN/DOCUMENTS/GITHUB/SCHN0RCHLI/PCB_DESIGNER/BOARDS/Board_V_1_0.brd
+
+Technology Difference Report
+============================
+
+Design        : Board_V_1_0
+Input File    : C:/Users/Dan/Desktop/tech.tcf
+Update Mode   : Merge (no deletions will be done)
+Constraint Information : CrossSection, Electrical, Physical, Spacing, Same Net Spacing, Properties
+Notes:
+------
+  - Attribute updates are reported as additions, deletions, or changes.
+  - Association updates are reported as additions or deletions. Associations
+    are the members of a MatchGroup, Constraint Set references, the PinPairs
+    of a Net, the members of a Differential Pair, etc.
+  - Clearing an object implies that the object does not exist so all attributes
+    and associations for the object will be deleted. These attribute and association
+    deletions are not included in the Summary totals. Objects are Constraint Sets,
+    Buses, XNets, Nets, etc.
+
+
+---------------------------------------------------------
+Layer: TOP
+	Changing: CDS_LAYER_THICKNESS to "0.0356" from "0.0305"
+---------------------------------------------------------
+Layer: DIELECTRIC_BELOW_TOP
+	Changing: CDS_LAYER_THICKNESS to "1.6002" from "0.2032"
+---------------------------------------------------------
+Layer: BOTTOM
+	Changing: CDS_LAYER_THICKNESS to "0.0356" from "0.0305"
+---------------------------------------------------------
+Design: Board_V_1_0
+	Changing: DRAWING_EXTENTS to "500.0000,500.0000" from "863.6000,558.8000"
+	Changing: DRAWING_LOWER_LEFT to "-150.0000,-150.0000" from "0.0000,0.0000"
+	Adding: MECH_PIN_TO_MECH_PIN_SPACING value "0.3048"
+	Adding: MECH_PIN_TO_CONDUCTOR_SPACING value "0.3048"
+	Changing: MAX_BVIA_STAGGER_VMODE to "ON" from "OFF"
+	Changing: PAD_PAD_DIRECT_CONNECT_VMODE to "ON" from "OFF"
+	Changing: HOLE_TO_PIN_SPACING_VMODE to "ON" from "OFF"
+	Changing: HOLE_TO_VIA_SPACING_VMODE to "ON" from "OFF"
+	Changing: HOLE_TO_LINE_SPACING_VMODE to "ON" from "OFF"
+	Changing: HOLE_TO_SHAPE_SPACING_VMODE to "ON" from "OFF"
+	Changing: HOLE_TO_HOLE_SPACING_VMODE to "ON" from "OFF"
+	Changing: SN_THRUPIN_TO_THRUPIN_SPACING_VMODE to "ON" from "OFF"
+	Changing: SN_THRUPIN_TO_SMDPIN_SPACING_VMODE to "ON" from "OFF"
+	Changing: SN_TESTPIN_TO_THRUPIN_SPACING_VMODE to "ON" from "OFF"
+	Changing: SN_THRUPIN_TO_THRUVIA_SPACING_VMODE to "ON" from "OFF"
+	Changing: SN_TESTVIA_TO_THRUPIN_SPACING_VMODE to "ON" from "OFF"
+	Changing: SN_BBV_TO_THRUPIN_SPACING_VMODE to "ON" from "OFF"
+	Changing: SN_THRUPIN_TO_BONDPAD_SPACING_VMODE to "ON" from "OFF"
+	Changing: SN_LINE_TO_THRUPIN_SPACING_VMODE to "ON" from "OFF"
+	Changing: SN_THRUPIN_TO_SHAPE_SPACING_VMODE to "ON" from "OFF"
+	Changing: SN_SMDPIN_TO_SMDPIN_SPACING_VMODE to "ON" from "OFF"
+	Changing: SN_SMDPIN_TO_TESTPIN_SPACING_VMODE to "ON" from "OFF"
+	Changing: SN_SMDPIN_TO_THRUVIA_SPACING_VMODE to "ON" from "OFF"
+	Changing: SN_SMDPIN_TO_TESTVIA_SPACING_VMODE to "ON" from "OFF"
+	Changing: SN_BBV_TO_SMDPIN_SPACING_VMODE to "ON" from "OFF"
+	Changing: SN_SMDPIN_TO_BONDPAD_SPACING_VMODE to "ON" from "OFF"
+	Changing: SN_LINE_TO_SMDPIN_SPACING_VMODE to "ON" from "OFF"
+	Changing: SN_SHAPE_TO_SMDPIN_SPACING_VMODE to "ON" from "OFF"
+	Changing: SN_TESTPIN_TO_TESTPIN_SPACING_VMODE to "ON" from "OFF"
+	Changing: SN_TESTPIN_TO_THRUVIA_SPACING_VMODE to "ON" from "OFF"
+	Changing: SN_TESTPIN_TO_TESTVIA_SPACING_VMODE to "ON" from "OFF"
+	Changing: SN_BBV_TO_TESTPIN_SPACING_VMODE to "ON" from "OFF"
+	Changing: SN_BONDPAD_TO_TESTPIN_SPACING_VMODE to "ON" from "OFF"
+	Changing: SN_LINE_TO_TESTPIN_SPACING_VMODE to "ON" from "OFF"
+	Changing: SN_SHAPE_TO_TESTPIN_SPACING_VMODE to "ON" from "OFF"
+	Changing: SN_THRUVIA_TO_THRUVIA_SPACING_VMODE to "ON" from "OFF"
+	Changing: SN_TESTVIA_TO_THRUVIA_SPACING_VMODE to "ON" from "OFF"
+	Changing: SN_BBV_TO_THRUVIA_SPACING_VMODE to "ON" from "OFF"
+	Changing: SN_BONDPAD_TO_THRUVIA_SPACING_VMODE to "ON" from "OFF"
+	Changing: SN_LINE_TO_THRUVIA_SPACING_VMODE to "ON" from "OFF"
+	Changing: SN_SHAPE_TO_THRUVIA_SPACING_VMODE to "ON" from "OFF"
+	Changing: SN_TESTVIA_TO_TESTVIA_SPACING_VMODE to "ON" from "OFF"
+	Changing: SN_BBV_TO_TESTVIA_SPACING_VMODE to "ON" from "OFF"
+	Changing: SN_BONDPAD_TO_TESTVIA_SPACING_VMODE to "ON" from "OFF"
+	Changing: SN_LINE_TO_TESTVIA_SPACING_VMODE to "ON" from "OFF"
+	Changing: SN_SHAPE_TO_TESTVIA_SPACING_VMODE to "ON" from "OFF"
+	Changing: SN_BBV_TO_BBV_SPACING_VMODE to "ON" from "OFF"
+	Changing: SN_BONDPAD_TO_BBV_SPACING_VMODE to "ON" from "OFF"
+	Changing: SN_BBV_TO_LINE_SPACING_VMODE to "ON" from "OFF"
+	Changing: SN_BBV_TO_SHAPE_SPACING_VMODE to "ON" from "OFF"
+	Changing: SN_BONDPAD_TO_BONDPAD_SPACING_VMODE to "ON" from "OFF"
+	Changing: SN_BONDPAD_TO_LINE_SPACING_VMODE to "ON" from "OFF"
+	Changing: SN_BONDPAD_TO_SHAPE_SPACING_VMODE to "ON" from "OFF"
+	Changing: SN_LINE_TO_LINE_SPACING_VMODE to "ON" from "OFF"
+	Changing: SN_LINE_TO_SHAPE_SPACING_VMODE to "ON" from "OFF"
+	Changing: SN_SHAPE_TO_SHAPE_SPACING_VMODE to "ON" from "OFF"
+	Changing: SN_HOLE_TO_PIN_SPACING_VMODE to "ON" from "OFF"
+	Changing: SN_HOLE_TO_VIA_SPACING_VMODE to "ON" from "OFF"
+	Changing: SN_HOLE_TO_LINE_SPACING_VMODE to "ON" from "OFF"
+	Changing: SN_HOLE_TO_SHAPE_SPACING_VMODE to "ON" from "OFF"
+	Changing: SN_HOLE_TO_HOLE_SPACING_VMODE to "ON" from "OFF"
+	Changing: MECH_PIN_TO_MECH_PIN_SPACING_VMODE to "ON" from "OFF"
+	Changing: MECH_PIN_TO_CONDUCTOR_SPACING_VMODE to "ON" from "OFF"
+	Changing: PIN_TO_ROUTE_KEEPOUT_VMODE to "ON" from "OFF"
+	Changing: MIN_METAL_SPACING_VMODE to "ON" from "OFF"
+---------------------------------------------------------
+PhysicalCSet: DEFAULT
+	Changing: MIN_LINE_WIDTH to "0.2032" from "0.1270"
+	Changing: MIN_NECK_WIDTH to "0.2032" from "0.1270"
+	Changing: MIN_BVIA_STAGGER to "0.2032" from "0.1270"
+	Changing: VIA_LIST to "VIA_0_8MM" from "VIA"
+---------------------------------------------------------
+SpacingCSet: DEFAULT
+	Changing: THRUPIN_TO_THRUPIN_SPACING to "0.2032" from "0.1270"
+	Changing: THRUPIN_TO_SMDPIN_SPACING to "0.2032" from "0.1270"
+	Changing: THRUPIN_TO_THRUVIA_SPACING to "0.2032" from "0.1270"
+	Changing: LINE_TO_THRUPIN_SPACING to "0.2032" from "0.1270"
+	Changing: THRUPIN_TO_SHAPE_SPACING to "1.0032" from "0.1270"
+	Changing: SMDPIN_TO_SMDPIN_SPACING to "0.2032" from "0.1270"
+	Changing: SMDPIN_TO_THRUVIA_SPACING to "0.2032" from "0.1270"
+	Changing: LINE_TO_SMDPIN_SPACING to "0.2032" from "0.1270"
+	Changing: SHAPE_TO_SMDPIN_SPACING to "1.0032" from "0.1270"
+	Changing: THRUVIA_TO_THRUVIA_SPACING to "0.2032" from "0.1270"
+	Changing: LINE_TO_THRUVIA_SPACING to "0.2032" from "0.1270"
+	Changing: SHAPE_TO_THRUVIA_SPACING to "1.0032" from "0.1270"
+	Changing: LINE_TO_LINE_SPACING to "0.2032" from "0.1270"
+	Changing: LINE_TO_SHAPE_SPACING to "0.2032" from "0.1270"
+	Changing: SHAPE_TO_SHAPE_SPACING to "1.0032" from "0.1270"
+	Changing: BBV_TO_BBV_SPACING to "0.2032" from "0.1270"
+	Changing: BBV_TO_THRUPIN_SPACING to "0.2032" from "0.1270"
+	Changing: BBV_TO_SMDPIN_SPACING to "0.2032" from "0.1270"
+	Changing: BBV_TO_THRUVIA_SPACING to "0.2032" from "0.1270"
+	Changing: BBV_TO_LINE_SPACING to "0.2032" from "0.1270"
+	Changing: BBV_TO_SHAPE_SPACING to "1.0032" from "0.1270"
+	Changing: BBV_TO_TESTPIN_SPACING to "0.2032" from "0.1270"
+	Changing: BBV_TO_TESTVIA_SPACING to "0.2032" from "0.1270"
+	Changing: TESTPIN_TO_TESTPIN_SPACING to "0.2032" from "0.1270"
+	Changing: TESTPIN_TO_THRUPIN_SPACING to "0.2032" from "0.1270"
+	Changing: SMDPIN_TO_TESTPIN_SPACING to "0.2032" from "0.1270"
+	Changing: TESTPIN_TO_THRUVIA_SPACING to "0.2032" from "0.1270"
+	Changing: TESTPIN_TO_TESTVIA_SPACING to "0.2032" from "0.1270"
+	Changing: LINE_TO_TESTPIN_SPACING to "0.2032" from "0.1270"
+	Changing: SHAPE_TO_TESTPIN_SPACING to "1.0032" from "0.1270"
+	Changing: TESTVIA_TO_TESTVIA_SPACING to "0.2032" from "0.1270"
+	Changing: TESTVIA_TO_THRUPIN_SPACING to "0.2032" from "0.1270"
+	Changing: SMDPIN_TO_TESTVIA_SPACING to "0.2032" from "0.1270"
+	Changing: TESTVIA_TO_THRUVIA_SPACING to "0.2032" from "0.1270"
+	Changing: LINE_TO_TESTVIA_SPACING to "0.2032" from "0.1270"
+	Changing: SHAPE_TO_TESTVIA_SPACING to "1.0032" from "0.1270"
+	Changing: BONDPAD_TO_BONDPAD_SPACING to "0.2032" from "0.1270"
+	Changing: THRUPIN_TO_BONDPAD_SPACING to "0.2032" from "0.1270"
+	Changing: SMDPIN_TO_BONDPAD_SPACING to "0.2032" from "0.1270"
+	Changing: BONDPAD_TO_THRUVIA_SPACING to "0.2032" from "0.1270"
+	Changing: BONDPAD_TO_LINE_SPACING to "0.2032" from "0.1270"
+	Changing: BONDPAD_TO_SHAPE_SPACING to "1.0032" from "0.1270"
+	Changing: BONDPAD_TO_BBV_SPACING to "0.2032" from "0.1270"
+	Changing: BONDPAD_TO_TESTPIN_SPACING to "0.2032" from "0.1270"
+	Changing: BONDPAD_TO_TESTVIA_SPACING to "0.2032" from "0.1270"
+	Changing: MIN_BVIA_GAP to "0.2032" from "0.1270"
+	Changing: HOLE_TO_PIN_SPACING to "0.3048" from "0.2032"
+	Changing: HOLE_TO_VIA_SPACING to "0.3048" from "0.2032"
+	Changing: HOLE_TO_LINE_SPACING to "0.3048" from "0.2032"
+	Changing: HOLE_TO_SHAPE_SPACING to "1.0032" from "0.2032"
+	Changing: HOLE_TO_HOLE_SPACING to "0.3048" from "0.2032"
+---------------------------------------------------------
+SameNetSpacingCSet: DEFAULT
+	Changing: SN_THRUPIN_TO_THRUPIN_SPACING to "0.2032" from "0.1270"
+	Changing: SN_THRUPIN_TO_SMDPIN_SPACING to "0.2032" from "0.1270"
+	Changing: SN_THRUPIN_TO_THRUVIA_SPACING to "0.2032" from "0.1270"
+	Changing: SN_LINE_TO_THRUPIN_SPACING to "0.2032" from "0.1270"
+	Changing: SN_THRUPIN_TO_SHAPE_SPACING to "1.0032" from "0.1270"
+	Changing: SN_SMDPIN_TO_SMDPIN_SPACING to "0.2032" from "0.1270"
+	Changing: SN_SMDPIN_TO_THRUVIA_SPACING to "0.2032" from "0.1270"
+	Changing: SN_LINE_TO_SMDPIN_SPACING to "0.2032" from "0.1270"
+	Changing: SN_SHAPE_TO_SMDPIN_SPACING to "1.0032" from "0.1270"
+	Changing: SN_THRUVIA_TO_THRUVIA_SPACING to "0.2032" from "0.1270"
+	Changing: SN_LINE_TO_THRUVIA_SPACING to "0.2032" from "0.1270"
+	Changing: SN_SHAPE_TO_THRUVIA_SPACING to "1.0032" from "0.1270"
+	Changing: SN_LINE_TO_LINE_SPACING to "0.2032" from "0.1270"
+	Changing: SN_LINE_TO_SHAPE_SPACING to "0.0000" from "0.1270"
+	Changing: SN_SHAPE_TO_SHAPE_SPACING to "1.0032" from "0.1270"
+	Changing: SN_BBV_TO_BBV_SPACING to "0.2032" from "0.1270"
+	Changing: SN_BBV_TO_THRUPIN_SPACING to "0.2032" from "0.1270"
+	Changing: SN_BBV_TO_SMDPIN_SPACING to "0.2032" from "0.1270"
+	Changing: SN_BBV_TO_THRUVIA_SPACING to "0.2032" from "0.1270"
+	Changing: SN_BBV_TO_LINE_SPACING to "0.2032" from "0.1270"
+	Changing: SN_BBV_TO_SHAPE_SPACING to "1.0032" from "0.1270"
+	Changing: SN_BBV_TO_TESTPIN_SPACING to "0.2032" from "0.1270"
+	Changing: SN_BBV_TO_TESTVIA_SPACING to "0.2032" from "0.1270"
+	Changing: SN_TESTPIN_TO_TESTPIN_SPACING to "0.2032" from "0.1270"
+	Changing: SN_TESTPIN_TO_THRUPIN_SPACING to "0.2032" from "0.1270"
+	Changing: SN_SMDPIN_TO_TESTPIN_SPACING to "0.2032" from "0.1270"
+	Changing: SN_TESTPIN_TO_THRUVIA_SPACING to "0.2032" from "0.1270"
+	Changing: SN_TESTPIN_TO_TESTVIA_SPACING to "0.2032" from "0.1270"
+	Changing: SN_LINE_TO_TESTPIN_SPACING to "0.2032" from "0.1270"
+	Changing: SN_SHAPE_TO_TESTPIN_SPACING to "1.0032" from "0.1270"
+	Changing: SN_TESTVIA_TO_TESTVIA_SPACING to "0.2032" from "0.1270"
+	Changing: SN_TESTVIA_TO_THRUPIN_SPACING to "0.2032" from "0.1270"
+	Changing: SN_SMDPIN_TO_TESTVIA_SPACING to "0.2032" from "0.1270"
+	Changing: SN_TESTVIA_TO_THRUVIA_SPACING to "0.2032" from "0.1270"
+	Changing: SN_LINE_TO_TESTVIA_SPACING to "0.2032" from "0.1270"
+	Changing: SN_SHAPE_TO_TESTVIA_SPACING to "1.0032" from "0.1270"
+	Changing: SN_BONDPAD_TO_BONDPAD_SPACING to "0.2032" from "0.1270"
+	Changing: SN_THRUPIN_TO_BONDPAD_SPACING to "0.2032" from "0.1270"
+	Changing: SN_SMDPIN_TO_BONDPAD_SPACING to "0.2032" from "0.1270"
+	Changing: SN_BONDPAD_TO_THRUVIA_SPACING to "0.2032" from "0.1270"
+	Changing: SN_BONDPAD_TO_LINE_SPACING to "0.2032" from "0.1270"
+	Changing: SN_BONDPAD_TO_SHAPE_SPACING to "1.0032" from "0.1270"
+	Changing: SN_BONDPAD_TO_BBV_SPACING to "0.2032" from "0.1270"
+	Changing: SN_BONDPAD_TO_TESTPIN_SPACING to "0.2032" from "0.1270"
+	Changing: SN_BONDPAD_TO_TESTVIA_SPACING to "0.2032" from "0.1270"
+	Changing: SN_HOLE_TO_SHAPE_SPACING to "1.0032" from "0.2032"
+---------------------------------------------------------
+
+Summary:
+
+Constraint changes found: 2 additions, 0 deletions, 167 changes.
+
+No association changes done.
+
+
+
+
