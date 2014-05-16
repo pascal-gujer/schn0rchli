@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : Board_V_1_0.brd                               )
 (    Software Version : 16.6S025                                      )
-(    Date/Time        : Mon May 05 12:44:50 2014                      )
+(    Date/Time        : Fri May 16 10:42:03 2014                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -22,12 +22,12 @@ Design Directory:            'C:/Users/Dan/Documents/GitHub/schn0rchli/PCB_Desig
 Old design name:             'C:/Users/Dan/Documents/GitHub/schn0rchli/PCB_Designer/Boards/Board_V_1_0.brd'
 New design name:             'C:/Users/Dan/Documents/GitHub/schn0rchli/PCB_Designer/Boards/Board_V_1_0.brd'
 
-CmdLine: netrev.exe -y 1 -n -i C:\USERS\DAN\DOCUMENTS\GITHUB\SCHN0RCHLI\PCB_DESIGNER\BOARDS C:\Users\Dan\Documents\GitHub\schn0rchli\PCB_Designer\Boards\Board_V_1_0.brd C:\Users\Dan\Documents\GitHub\schn0rchli\PCB_Designer\Boards\Board_V_1_0.brd
+CmdLine: netrev.exe -y 1 -i C:\USERS\DAN\DOCUMENTS\GITHUB\SCHN0RCHLI\PCB_DESIGNER\BOARDS C:\Users\Dan\Documents\GitHub\schn0rchli\PCB_Designer\Boards\Board_V_1_0.brd C:\Users\Dan\Documents\GitHub\schn0rchli\PCB_Designer\Boards\Board_V_1_0.brd
 
 ------ Preparing to read pst files ------
 
 Starting to read C:/USERS/DAN/DOCUMENTS/GITHUB/SCHN0RCHLI/PCB_DESIGNER/BOARDS/pstchip.dat 
-   Finished reading C:/USERS/DAN/DOCUMENTS/GITHUB/SCHN0RCHLI/PCB_DESIGNER/BOARDS/pstchip.dat (00:00:00.08)
+   Finished reading C:/USERS/DAN/DOCUMENTS/GITHUB/SCHN0RCHLI/PCB_DESIGNER/BOARDS/pstchip.dat (00:00:00.04)
 Starting to read C:/USERS/DAN/DOCUMENTS/GITHUB/SCHN0RCHLI/PCB_DESIGNER/BOARDS/pstxprt.dat 
    Finished reading C:/USERS/DAN/DOCUMENTS/GITHUB/SCHN0RCHLI/PCB_DESIGNER/BOARDS/pstxprt.dat (00:00:00.00)
 Starting to read C:/USERS/DAN/DOCUMENTS/GITHUB/SCHN0RCHLI/PCB_DESIGNER/BOARDS/pstxnet.dat 
@@ -63,7 +63,7 @@ PADPATH =  .
 ------ Summary Statistics ------
 
 
-netrev run on May 5 12:44:50 2014
+netrev run on May 16 10:42:03 2014
    DESIGN NAME : 'THERMOMETER'
    PACKAGING ON Jan 13 2014 18:46:08
 
@@ -88,6 +88,6 @@ netrev run on May 5 12:44:50 2014
  No oversight detected
  No warning detected
 
-cpu time      0:01:03
-elapsed time  0:00:01
+cpu time      0:00:54
+elapsed time  0:00:00
 

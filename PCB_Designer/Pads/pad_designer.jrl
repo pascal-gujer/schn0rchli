@@ -1,23 +1,19 @@
 \t (00:00:00) pad_designer 16.6 S022 (v16-6-112BN) Windows 32
-\t (00:00:00)     Journal start - Fri May 09 11:11:27 2014
-\t (00:00:00)         Host=SINKBRETT User=Dan Pid=5744 CPUs=2
+\t (00:00:00)     Journal start - Fri May 16 11:41:01 2014
+\t (00:00:00)         Host=SINKBRETT User=Dan Pid=2348 CPUs=2
 \t (00:00:00) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\pad_designer.exe
 \t (00:00:00) 
 \i (00:00:03) setwindow form.padedit
-\i (00:00:03) FORM padedit units Millimeter 
-\i (00:00:04) fillin yes 
-\w (00:00:04) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\i (00:00:07) pse_open 
-\i (00:00:12) fillin "lqfp64.pad"
-\i (00:00:15) fillin yes 
-\i (00:00:20) FORM padedit layers  
-\i (00:00:40) FORM padedit height 0.29 
-\i (00:00:40) FORM padedit grid row soldermask_top 
-\i (00:00:46) FORM padedit height 0.29 
-\i (00:00:48) FORM padedit grid row pastemask_top 
-\i (00:00:49) FORM padedit grid row begin_layer 
-\i (00:00:50) FORM padedit grid row soldermask_top 
-\i (00:00:52) pse_save 
-\i (00:00:53) fillin yes 
-\i (00:00:54) pse_exit
-\t (00:00:54)     Journal end - Fri May 09 11:12:21 2014
+\i (00:00:03) pse_open 
+\i (00:00:13) fillin "display.pad"
+\i (00:00:18) FORM padedit layers  
+\i (00:00:20) FORM padedit grid row begin_layer 
+\i (00:00:26) FORM padedit width 1 
+\i (00:00:27) FORM padedit grid row default_internal 
+\i (00:00:32) FORM padedit height 1 
+\i (00:00:37) FORM padedit grid row end_layer 
+\i (00:00:40) FORM padedit height 1. 
+\i (00:00:45) pse_save 
+\i (00:00:46) fillin yes 
+\i (00:17:40) pse_exit
+\t (00:17:40)     Journal end - Fri May 16 11:58:42 2014

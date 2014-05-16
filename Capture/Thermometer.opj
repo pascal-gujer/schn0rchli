@@ -44,7 +44,9 @@
     ("Allegro Netlist Combine Property String" "PCB Footprint")
     ("Allegro Netlist Ignore Fixed Property" "FALSE")
     ("Allegro Netlist User Defined Property" "FALSE")
-    (Netlist_TAB "0"))
+    (Netlist_TAB "0")
+    ("Allegro Netlist Input Board File"
+       "C:\Users\Dan\Documents\GitHub\schn0rchli\PCB_Designer\Boards\Board_V_1_0.brd"))
   (Folder "Outputs"
     (File "..\pcb_designer\boards\pstxnet.dat"
       (Type "Report")
@@ -57,13 +59,13 @@
       (DisplayName "pstchip.dat")))
   (Folder "Referenced Projects")
   (PartMRUSelector
+    (GND
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
     (PORTRIGHT-R
       (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0"))
     (PORTLEFT-R
-      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
-      (DeviceIndex "0"))
-    (GND
       (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0"))
     (R_0805
@@ -182,13 +184,13 @@
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -9 -36 0 391 0 401"))
+        (Placement "44 0 1 -1 -1 -9 -36 0 391 0 401"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -9 -36 595 1637 71 331")
-        (Scroll "0 182")
+        (Placement "44 2 3 -1 -1 -9 -36 595 1637 71 331")
+        (Scroll "408 13")
         (Zoom "134")
         (Occurrence "/"))
       (Path "C:\USERS\DAN\DOCUMENTS\GITHUB\SCHN0RCHLI\CAPTURE\THERMOMETER.DSN")

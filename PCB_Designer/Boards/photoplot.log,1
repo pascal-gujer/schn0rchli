@@ -1,0 +1,152 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    ARTWORK LOG                                                      )
+(                                                                     )
+(    Drawing          : Board_V_1_0.brd                               )
+(    Software Version : 16.6S025                                      )
+(    Date/Time        : Fri May 16 11:54:52 2014                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+ ---- Photoplot outline rectangle not found; using drawing extents.
+
+
+
+Results from parameter file ...
+    DEVICE-TYPE           GERBER_RS274X
+    OUTPUT-UNITS          MM
+    FILM-SIZE             2400000 1600000
+    FORMAT                5.5
+    ABORT-ON-ERROR        NO
+    SCALE                 1
+    SUPPRESS-LEAD-ZEROES  YES
+    SUPPRESS-TRAIL-ZEROES NO
+    SUPPRESS-EQUAL        YES
+    UNDEF-APT-CONT        NO
+
+
+================================================================
+     PROCESSING FILM < TOP >
+     TO FILE < C:/USERS/DAN/DOCUMENTS/GITHUB/SCHN0RCHLI/PCB_DESIGNER/BOARDS/TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.20320                                  DARK 
+  CIRCLE     0.30000                                  DARK 
+  CIRCLE     0.40000                                  DARK 
+  CIRCLE     0.60000                                  DARK 
+  CIRCLE     1.00000                                  DARK 
+  CIRCLE     1.10000                                  DARK 
+  CIRCLE     1.60000                                  DARK 
+  CIRCLE     2.00000                                  DARK 
+  CIRCLE     4.30000                                  DARK 
+  SQUARE     1.50000                     0.000 NO     DARK 
+  RECTANGLE  1.00000     x 1.40000       0.000 NO     DARK 
+  RECTANGLE  1.05000     x 1.30000       0.000 NO     DARK 
+  RECTANGLE  1.05000     x 1.30000      90.000 NO     DARK 
+  RECTANGLE  1.12000     x 2.88000      90.000 NO     DARK 
+  RECTANGLE  2.00000     x 1.20000       0.000 NO     DARK 
+  OBLONG     4.00000     x 1.60000       0.000 NO     DARK 
+  OBLONG     4.00000     x 1.80000      90.000 NO     DARK 
+
+     TOP created.
+
+
+================================================================
+     PROCESSING FILM < BOTTOM >
+     TO FILE < C:/USERS/DAN/DOCUMENTS/GITHUB/SCHN0RCHLI/PCB_DESIGNER/BOARDS/BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.20320                                  DARK 
+  CIRCLE     0.25000                                  DARK 
+  CIRCLE     0.28000                                  DARK 
+  CIRCLE     0.29500                                  DARK 
+  CIRCLE     0.30000                                  DARK 
+  CIRCLE     0.40000                                  DARK 
+  CIRCLE     0.60000                                  DARK 
+  CIRCLE     1.00000                                  DARK 
+  CIRCLE     1.60000                                  DARK 
+  CIRCLE     2.00000                                  DARK 
+  CIRCLE     4.30000                                  DARK 
+  SQUARE     0.80000                     0.000 NO     DARK 
+  RECTANGLE  0.90000     x 1.50000       0.000 NO     DARK 
+  RECTANGLE  1.00000     x 0.70000      90.000 NO     DARK 
+  RECTANGLE  1.00000     x 0.80000       0.000 NO     DARK 
+  RECTANGLE  1.05000     x 1.30000       0.000 NO     DARK 
+  RECTANGLE  1.05000     x 1.30000      90.000 NO     DARK 
+  RECTANGLE  1.14300     x 0.76000       0.000 NO     DARK 
+  RECTANGLE  1.20000     x 0.29000       0.000 NO     DARK 
+  RECTANGLE  1.20000     x 0.29000      90.000 NO     DARK 
+  RECTANGLE  1.70000     x 2.40000      90.000 NO     DARK 
+  OBLONG     4.00000     x 1.60000       0.000 NO     DARK 
+  OBLONG     4.00000     x 1.80000      90.000 NO     DARK 
+
+     BOTTOM created.
+
+
+================================================================
+     PROCESSING FILM < outline >
+     TO FILE < C:/USERS/DAN/DOCUMENTS/GITHUB/SCHN0RCHLI/PCB_DESIGNER/BOARDS/outline.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: rectangle or unfilled shape composed 0 width line found at (214.6200 137.5600)
+           ... ignored.
+
+
+
+  APERTURES USED:  NONE
+     outline created with warnings
+
+
+------------------------------------------------------
+ SUMMARY:
+        TOP created.
+        BOTTOM created.
+        outline created with warnings
+
+ ARTWORK had warnings

@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : Board_V_1_0.brd                               )
 (    Software Version : 16.6S025                                      )
-(    Date/Time        : Fri May 16 10:48:30 2014                      )
+(    Date/Time        : Fri May 09 11:05:53 2014                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -112,7 +112,7 @@ PhysicalCSet: DEFAULT
 	Changing: MIN_LINE_WIDTH to "0.2032" from "0.1270"
 	Changing: MIN_NECK_WIDTH to "0.2032" from "0.1270"
 	Changing: MIN_BVIA_STAGGER to "0.2032" from "0.1270"
-	Changing: VIA_LIST to "VIA_0_8MM" from "VIA_0_8MM,VIA"
+	Changing: VIA_LIST to "VIA_0_8MM" from "VIA"
 ---------------------------------------------------------
 SpacingCSet: DEFAULT
 	Changing: THRUPIN_TO_THRUPIN_SPACING to "0.2032" from "0.1270"

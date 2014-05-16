@@ -1,0 +1,25 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : Board_V_1_0.brd                               )
+(    Software Version : 16.6S025                                      )
+(    Date/Time        : Fri May 16 11:54:51 2014                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+WARNING: The following vias/pins have connections using non-plated padstacks
+         This may cause issues with your manufacturing process.
+
+  Pin/Via         Padstack                                   Location
+  -------------------------------------------------------------------------
+  J1.2            THCIRC1000                               (201.6125 139.3825)
+  J1.5            THCIRC1000                               (209.2325 139.3825)
+  J1.4            THCIRC1000                               (206.6925 139.3825)
+  J1.1            THCIRC1000                               (199.0725 139.3825)
+  J1.3            THCIRC1000                               (204.1525 139.3825)
+
+
+5 warnings, 0 errors detected, 0 errors could be fixed.
